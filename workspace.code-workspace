@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "intropython-eugenerz",
+			"path": "..\\intropython-eugenerz"
+		},
+		{
+			"name": "challenge-funciones-eugenerz",
+			"path": "..\\challenge-funciones-eugenerz"
+		},
+		{
+			"name": "challenge-cicloscondicionales-eugenerz",
+			"path": "..\\challenge-cicloscondicionales-eugenerz"
+		},
+		{
+			"name": "challenge-sql-eugenerz",
+			"path": "..\\challenge-sql-eugenerz"
+		},
+		{
+			"name": "challenge-joins-eugenerz",
+			"path": "..\\challenge-joins-eugenerz"
+		},
+		{
+			"name": "challenge-python-eugenerz",
+			"path": "..\\challenge-python-eugenerz"
+		},
+		{
+			"name": "challenge-datacollect-eugenerz-1",
+			"path": "..\\challenge-datacollect-eugenerz-1"
+		},
+		{
+			"name": "challenge-numpy-eugenerz",
+			"path": "..\\Challenges\\challenge-numpy-eugenerz"
+		},
+		{
+			"path": "..\\Challenges"
+		},
+		{
+			"name": "challenge-data-visualization-eugenerz",
+			"path": "..\\Challenges\\challenge-data-visualization-eugenerz"
+		}
+	],
+	"settings": {}
+}

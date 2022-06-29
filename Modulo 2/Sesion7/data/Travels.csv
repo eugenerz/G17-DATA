@@ -1,0 +1,763 @@
+travelCode,userCode_x,from,to,flightType,price_x,time,distance,agency,date_x,userCode_y,name_x,place,days,price_y,total,date_y,company,name_y,gender,age
+0,0,Recife (PE),Florianopolis (SC),firstClass,1434.38,1.76,676.53,FlyingDrops,09/26/2019,0,Hotel A,Florianopolis (SC),4,313.02,1252.08,09/26/2019,4You,Roy Braun,male,21
+0,0,Florianopolis (SC),Recife (PE),firstClass,1292.29,1.76,676.53,FlyingDrops,09/30/2019,0,Hotel A,Florianopolis (SC),4,313.02,1252.08,09/26/2019,4You,Roy Braun,male,21
+2,0,Aracaju (SE),Salvador (BH),firstClass,1684.05,2.16,830.86,CloudFy,10/10/2019,0,Hotel K,Salvador (BH),2,263.41,526.82,10/10/2019,4You,Wilma Mcinnis,female,48
+2,0,Salvador (BH),Aracaju (SE),firstClass,1531.92,2.16,830.86,CloudFy,10/12/2019,0,Hotel K,Salvador (BH),2,263.41,526.82,10/10/2019,4You,Wilma Mcinnis,female,48
+7,0,Aracaju (SE),Salvador (BH),economic,964.83,2.16,830.86,CloudFy,11/14/2019,0,Hotel K,Salvador (BH),3,263.41,790.23,11/14/2019,4You,Gregoria Gil,female,21
+7,0,Salvador (BH),Aracaju (SE),economic,811.73,2.16,830.86,CloudFy,11/17/2019,0,Hotel K,Salvador (BH),3,263.41,790.23,11/14/2019,4You,Gregoria Gil,female,21
+11,0,Brasilia (DF),Salvador (BH),premium,1268.97,1.76,676.56,Rainbow,12/12/2019,0,Hotel K,Salvador (BH),4,263.41,1053.64,12/12/2019,4You,Virginia Roberts,female,61
+11,0,Salvador (BH),Brasilia (DF),premium,882.86,1.76,676.56,Rainbow,12/16/2019,0,Hotel K,Salvador (BH),4,263.41,1053.64,12/12/2019,4You,Virginia Roberts,female,61
+13,0,Recife (PE),Florianopolis (SC),firstClass,1434.38,1.76,676.53,FlyingDrops,12/26/2019,0,Hotel A,Florianopolis (SC),1,313.02,313.02,12/26/2019,4You,Irene Tucker,none,36
+13,0,Florianopolis (SC),Recife (PE),firstClass,1292.29,1.76,676.53,FlyingDrops,12/27/2019,0,Hotel A,Florianopolis (SC),1,313.02,313.02,12/26/2019,4You,Irene Tucker,none,36
+15,0,Recife (PE),Natal (RN),premium,474.6,0.58,222.67,CloudFy,01/09/2020,0,Hotel BD,Natal (RN),2,242.88,485.76,01/09/2020,4You,Janice Cudney,female,56
+15,0,Natal (RN),Recife (PE),premium,563.23,0.58,222.67,CloudFy,01/11/2020,0,Hotel BD,Natal (RN),2,242.88,485.76,01/09/2020,4You,Janice Cudney,female,56
+22,0,Brasilia (DF),Aracaju (SE),firstClass,1214.82,1.11,425.98,Rainbow,02/27/2020,0,Hotel Z,Aracaju (SE),2,208.04,416.08,02/27/2020,4You,Michele Ashford,female,51
+22,0,Aracaju (SE),Brasilia (DF),firstClass,959.29,1.11,425.98,Rainbow,02/29/2020,0,Hotel Z,Aracaju (SE),2,208.04,416.08,02/27/2020,4You,Michele Ashford,female,51
+29,0,Aracaju (SE),Recife (PE),economic,604.14,1.44,555.74,CloudFy,04/16/2020,0,Hotel AU,Recife (PE),4,312.83,1251.32,04/16/2020,4You,Lisa Natera,female,35
+29,0,Recife (PE),Aracaju (SE),economic,684.88,1.44,555.74,CloudFy,04/20/2020,0,Hotel AU,Recife (PE),4,312.83,1251.32,04/16/2020,4You,Lisa Natera,female,35
+32,0,Brasilia (DF),Sao Paulo (SP),firstClass,893.65,0.67,257.81,CloudFy,05/07/2020,0,Hotel AF,Sao Paulo (SP),2,139.1,278.2,05/07/2020,4You,Wesley Locker,male,44
+32,0,Sao Paulo (SP),Brasilia (DF),firstClass,742.94,0.67,257.81,CloudFy,05/09/2020,0,Hotel AF,Sao Paulo (SP),2,139.1,278.2,05/07/2020,4You,Wesley Locker,male,44
+33,0,Brasilia (DF),Salvador (BH),premium,1346.6,1.76,676.56,CloudFy,05/14/2020,0,Hotel K,Salvador (BH),4,263.41,1053.64,05/14/2020,4You,Ida Turzak,female,56
+33,0,Salvador (BH),Brasilia (DF),premium,836.89,1.76,676.56,CloudFy,05/18/2020,0,Hotel K,Salvador (BH),4,263.41,1053.64,05/14/2020,4You,Ida Turzak,female,56
+34,0,Aracaju (SE),Sao Paulo (SP),premium,630.34,1.02,392.76,CloudFy,05/21/2020,0,Hotel AF,Sao Paulo (SP),3,139.1,417.3,05/21/2020,4You,Anita Petersen,female,21
+34,0,Sao Paulo (SP),Aracaju (SE),premium,906.59,1.02,392.76,CloudFy,05/24/2020,0,Hotel AF,Sao Paulo (SP),3,139.1,417.3,05/21/2020,4You,Anita Petersen,female,21
+38,0,Brasilia (DF),Natal (RN),firstClass,1433.35,1.43,550.69,FlyingDrops,06/18/2020,0,Hotel BD,Natal (RN),2,242.88,485.76,06/18/2020,4You,Nancy Dowdy,female,47
+38,0,Natal (RN),Brasilia (DF),firstClass,1192.62,1.43,550.69,FlyingDrops,06/20/2020,0,Hotel BD,Natal (RN),2,242.88,485.76,06/18/2020,4You,Nancy Dowdy,female,47
+39,0,Brasilia (DF),Salvador (BH),economic,958.15,1.76,676.56,CloudFy,06/25/2020,0,Hotel K,Salvador (BH),1,263.41,263.41,06/25/2020,4You,Billie Dwight,female,48
+39,0,Salvador (BH),Brasilia (DF),economic,587.85,1.76,676.56,CloudFy,06/26/2020,0,Hotel K,Salvador (BH),1,263.41,263.41,06/25/2020,4You,Billie Dwight,female,48
+42,0,Recife (PE),Campo Grande (MS),premium,832.77,1.39,535.4,Rainbow,07/16/2020,0,Hotel BW,Campo Grande (MS),3,60.39,181.17,07/16/2020,4You,Robert Collins,male,61
+42,0,Campo Grande (MS),Recife (PE),premium,991.22,1.39,535.4,Rainbow,07/19/2020,0,Hotel BW,Campo Grande (MS),3,60.39,181.17,07/16/2020,4You,Robert Collins,male,61
+43,0,Recife (PE),Salvador (BH),firstClass,1484.94,2.05,788.55,CloudFy,07/23/2020,0,Hotel K,Salvador (BH),4,263.41,1053.64,07/23/2020,4You,Louise James,female,24
+43,0,Salvador (BH),Recife (PE),firstClass,1440.02,2.05,788.55,CloudFy,07/27/2020,0,Hotel K,Salvador (BH),4,263.41,1053.64,07/23/2020,4You,Louise James,female,24
+45,0,Recife (PE),Natal (RN),premium,474.6,0.58,222.67,CloudFy,08/06/2020,0,Hotel BD,Natal (RN),1,242.88,242.88,08/06/2020,4You,Margaret Paul,female,54
+45,0,Natal (RN),Recife (PE),premium,563.23,0.58,222.67,CloudFy,08/07/2020,0,Hotel BD,Natal (RN),1,242.88,242.88,08/06/2020,4You,Margaret Paul,female,54
+51,0,Recife (PE),Salvador (BH),premium,1242.65,2.05,788.55,CloudFy,09/17/2020,0,Hotel K,Salvador (BH),1,263.41,263.41,09/17/2020,4You,Jenell Torbus,female,39
+51,0,Salvador (BH),Recife (PE),premium,1016.53,2.05,788.55,CloudFy,09/18/2020,0,Hotel K,Salvador (BH),1,263.41,263.41,09/17/2020,4You,Jenell Torbus,female,39
+53,0,Brasilia (DF),Campo Grande (MS),premium,831.7,0.72,277.7,CloudFy,10/01/2020,0,Hotel BW,Campo Grande (MS),2,60.39,120.78,10/01/2020,4You,Carol Dixon,female,23
+53,0,Campo Grande (MS),Brasilia (DF),premium,661.32,0.72,277.7,CloudFy,10/03/2020,0,Hotel BW,Campo Grande (MS),2,60.39,120.78,10/01/2020,4You,Carol Dixon,female,23
+54,0,Aracaju (SE),Sao Paulo (SP),firstClass,730.43,1.02,392.76,CloudFy,10/08/2020,0,Hotel AF,Sao Paulo (SP),3,139.1,417.3,10/08/2020,4You,Dorothea Delaney,female,21
+54,0,Sao Paulo (SP),Aracaju (SE),firstClass,1186.15,1.02,392.76,CloudFy,10/11/2020,0,Hotel AF,Sao Paulo (SP),3,139.1,417.3,10/08/2020,4You,Dorothea Delaney,female,21
+55,0,Recife (PE),Florianopolis (SC),firstClass,1371.83,1.76,676.53,Rainbow,10/15/2020,0,Hotel A,Florianopolis (SC),2,313.02,626.04,10/15/2020,4You,Ivory Shiner,none,38
+55,0,Florianopolis (SC),Recife (PE),firstClass,1175.62,1.76,676.53,Rainbow,10/17/2020,0,Hotel A,Florianopolis (SC),2,313.02,626.04,10/15/2020,4You,Ivory Shiner,none,38
+57,0,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,10/29/2020,0,Hotel Z,Aracaju (SE),4,208.04,832.16,10/29/2020,4You,Dorothy Dyson,female,32
+57,0,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,11/02/2020,0,Hotel Z,Aracaju (SE),4,208.04,832.16,10/29/2020,4You,Dorothy Dyson,female,32
+60,0,Brasilia (DF),Aracaju (SE),firstClass,1214.82,1.11,425.98,Rainbow,11/19/2020,0,Hotel Z,Aracaju (SE),4,208.04,832.16,11/19/2020,4You,Fred Moreta,male,47
+60,0,Aracaju (SE),Brasilia (DF),firstClass,959.29,1.11,425.98,Rainbow,11/23/2020,0,Hotel Z,Aracaju (SE),4,208.04,832.16,11/19/2020,4You,Fred Moreta,male,47
+65,0,Aracaju (SE),Rio de Janeiro (RJ),economic,717.04,1.55,597.61,CloudFy,12/24/2020,0,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,12/24/2020,4You,Christina Law,none,51
+65,0,Rio de Janeiro (RJ),Aracaju (SE),economic,796.42,1.55,597.61,CloudFy,12/25/2020,0,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,12/24/2020,4You,Christina Law,none,51
+73,0,Aracaju (SE),Brasilia (DF),firstClass,898.04,1.11,425.98,FlyingDrops,02/18/2021,0,Hotel BP,Brasilia (DF),4,247.62,990.48,02/18/2021,4You,Melissa Emch,female,46
+73,0,Brasilia (DF),Aracaju (SE),firstClass,1287.52,1.11,425.98,FlyingDrops,02/22/2021,0,Hotel BP,Brasilia (DF),4,247.62,990.48,02/18/2021,4You,Melissa Emch,female,46
+81,0,Brasilia (DF),Natal (RN),economic,726.19,1.43,550.69,Rainbow,04/15/2021,0,Hotel BD,Natal (RN),4,242.88,971.52,04/15/2021,4You,Angela Hill,female,21
+81,0,Natal (RN),Brasilia (DF),economic,686.79,1.43,550.69,Rainbow,04/19/2021,0,Hotel BD,Natal (RN),4,242.88,971.52,04/15/2021,4You,Angela Hill,female,21
+86,0,Aracaju (SE),Sao Paulo (SP),premium,588.14,1.02,392.76,Rainbow,05/20/2021,0,Hotel AF,Sao Paulo (SP),3,139.1,417.3,05/20/2021,4You,Audrey Atwood,female,30
+86,0,Sao Paulo (SP),Aracaju (SE),premium,962.54,1.02,392.76,Rainbow,05/23/2021,0,Hotel AF,Sao Paulo (SP),3,139.1,417.3,05/20/2021,4You,Audrey Atwood,female,30
+87,0,Brasilia (DF),Recife (PE),firstClass,804.24,0.63,242.21,CloudFy,05/27/2021,0,Hotel AU,Recife (PE),1,312.83,312.83,05/27/2021,4You,Marie Bowyer,female,30
+87,0,Recife (PE),Brasilia (DF),firstClass,709.25,0.63,242.21,CloudFy,05/28/2021,0,Hotel AU,Recife (PE),1,312.83,312.83,05/27/2021,4You,Marie Bowyer,female,30
+90,1,Aracaju (SE),Sao Paulo (SP),premium,630.34,1.02,392.76,CloudFy,10/03/2019,1,Hotel AF,Sao Paulo (SP),1,139.1,139.1,10/03/2019,4You,Juan Naone,none,39
+90,1,Sao Paulo (SP),Aracaju (SE),premium,906.59,1.02,392.76,CloudFy,10/04/2019,1,Hotel AF,Sao Paulo (SP),1,139.1,139.1,10/03/2019,4You,Juan Naone,none,39
+92,1,Recife (PE),Brasilia (DF),premium,638.63,0.63,242.21,Rainbow,10/17/2019,1,Hotel BP,Brasilia (DF),1,247.62,247.62,10/17/2019,4You,Donna Day,female,43
+92,1,Brasilia (DF),Recife (PE),premium,559.13,0.63,242.21,Rainbow,10/18/2019,1,Hotel BP,Brasilia (DF),1,247.62,247.62,10/17/2019,4You,Donna Day,female,43
+100,2,Brasilia (DF),Rio de Janeiro (RJ),economic,344.26,0.48,183.37,CloudFy,10/31/2019,2,Hotel CB,Rio de Janeiro (RJ),4,165.99,663.96,10/31/2019,4You,Carla Puskar,female,36
+100,2,Rio de Janeiro (RJ),Brasilia (DF),economic,369.57,0.48,183.37,CloudFy,11/04/2019,2,Hotel CB,Rio de Janeiro (RJ),4,165.99,663.96,10/31/2019,4You,Carla Puskar,female,36
+101,2,Aracaju (SE),Campo Grande (MS),economic,743.54,1.69,650.1,Rainbow,11/07/2019,2,Hotel BW,Campo Grande (MS),3,60.39,181.17,11/07/2019,4You,James Banks,male,59
+101,2,Campo Grande (MS),Aracaju (SE),economic,877.56,1.69,650.1,Rainbow,11/10/2019,2,Hotel BW,Campo Grande (MS),3,60.39,181.17,11/07/2019,4You,James Banks,male,59
+105,2,Brasilia (DF),Aracaju (SE),economic,654.88,1.11,425.98,CloudFy,12/05/2019,2,Hotel Z,Aracaju (SE),4,208.04,832.16,12/05/2019,4You,Richard Haugen,male,31
+105,2,Aracaju (SE),Brasilia (DF),economic,472.72,1.11,425.98,CloudFy,12/09/2019,2,Hotel Z,Aracaju (SE),4,208.04,832.16,12/05/2019,4You,Richard Haugen,male,31
+108,2,Brasilia (DF),Recife (PE),firstClass,804.24,0.63,242.21,CloudFy,12/26/2019,2,Hotel AU,Recife (PE),3,312.83,938.49,12/26/2019,4You,Becky Gonzalez,female,58
+108,2,Recife (PE),Brasilia (DF),firstClass,709.25,0.63,242.21,CloudFy,12/29/2019,2,Hotel AU,Recife (PE),3,312.83,938.49,12/26/2019,4You,Becky Gonzalez,female,58
+109,2,Aracaju (SE),Campo Grande (MS),firstClass,1389.37,1.69,650.1,CloudFy,01/02/2020,2,Hotel BW,Campo Grande (MS),2,60.39,120.78,01/02/2020,4You,Maria Averitt,female,24
+109,2,Campo Grande (MS),Aracaju (SE),firstClass,1581.8,1.69,650.1,CloudFy,01/04/2020,2,Hotel BW,Campo Grande (MS),2,60.39,120.78,01/02/2020,4You,Maria Averitt,female,24
+110,2,Recife (PE),Salvador (BH),premium,1242.65,2.05,788.55,CloudFy,01/09/2020,2,Hotel K,Salvador (BH),1,263.41,263.41,01/09/2020,4You,Frank Leung,none,54
+110,2,Salvador (BH),Recife (PE),premium,1016.53,2.05,788.55,CloudFy,01/10/2020,2,Hotel K,Salvador (BH),1,263.41,263.41,01/09/2020,4You,Frank Leung,none,54
+112,2,Brasilia (DF),Sao Paulo (SP),premium,698.1,0.67,257.81,CloudFy,01/23/2020,2,Hotel AF,Sao Paulo (SP),4,139.1,556.4,01/23/2020,4You,Michael Benincase,male,53
+112,2,Sao Paulo (SP),Brasilia (DF),premium,602.12,0.67,257.81,CloudFy,01/27/2020,2,Hotel AF,Sao Paulo (SP),4,139.1,556.4,01/23/2020,4You,Michael Benincase,male,53
+116,2,Aracaju (SE),Campo Grande (MS),economic,743.54,1.69,650.1,Rainbow,02/20/2020,2,Hotel BW,Campo Grande (MS),4,60.39,241.56,02/20/2020,4You,Shawn Pennachio,male,59
+116,2,Campo Grande (MS),Aracaju (SE),economic,877.56,1.69,650.1,Rainbow,02/24/2020,2,Hotel BW,Campo Grande (MS),4,60.39,241.56,02/20/2020,4You,Shawn Pennachio,male,59
+117,2,Aracaju (SE),Recife (PE),economic,602.49,1.44,555.74,Rainbow,02/27/2020,2,Hotel AU,Recife (PE),2,312.83,625.66,02/27/2020,4You,Maurice Creasey,none,38
+117,2,Recife (PE),Aracaju (SE),economic,663.23,1.44,555.74,Rainbow,02/29/2020,2,Hotel AU,Recife (PE),2,312.83,625.66,02/27/2020,4You,Maurice Creasey,none,38
+119,2,Aracaju (SE),Salvador (BH),firstClass,1723.71,2.16,830.86,Rainbow,03/12/2020,2,Hotel K,Salvador (BH),2,263.41,526.82,03/12/2020,4You,Justin Bedard,male,38
+119,2,Salvador (BH),Aracaju (SE),firstClass,1520.02,2.16,830.86,Rainbow,03/14/2020,2,Hotel K,Salvador (BH),2,263.41,526.82,03/12/2020,4You,Justin Bedard,male,38
+122,2,Aracaju (SE),Florianopolis (SC),premium,1174.97,2.1,808.85,CloudFy,04/02/2020,2,Hotel A,Florianopolis (SC),4,313.02,1252.08,04/02/2020,4You,Shannon Crosley,none,56
+122,2,Florianopolis (SC),Aracaju (SE),premium,1149.53,2.1,808.85,CloudFy,04/06/2020,2,Hotel A,Florianopolis (SC),4,313.02,1252.08,04/02/2020,4You,Shannon Crosley,none,56
+124,2,Recife (PE),Aracaju (SE),firstClass,1181.19,1.44,555.74,Rainbow,04/16/2020,2,Hotel Z,Aracaju (SE),3,208.04,624.12,04/16/2020,4You,Rae Austin,female,54
+124,2,Aracaju (SE),Recife (PE),firstClass,1119.47,1.44,555.74,Rainbow,04/19/2020,2,Hotel Z,Aracaju (SE),3,208.04,624.12,04/16/2020,4You,Rae Austin,female,54
+125,2,Recife (PE),Campo Grande (MS),premium,793.15,1.39,535.4,CloudFy,04/23/2020,2,Hotel BW,Campo Grande (MS),2,60.39,120.78,04/23/2020,4You,Marshall Knight,male,61
+125,2,Campo Grande (MS),Recife (PE),premium,959.91,1.39,535.4,CloudFy,04/25/2020,2,Hotel BW,Campo Grande (MS),2,60.39,120.78,04/23/2020,4You,Marshall Knight,male,61
+135,2,Aracaju (SE),Rio de Janeiro (RJ),economic,717.04,1.55,597.61,CloudFy,07/02/2020,2,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,07/02/2020,4You,Jeanna Davis,female,45
+135,2,Rio de Janeiro (RJ),Aracaju (SE),economic,796.42,1.55,597.61,CloudFy,07/03/2020,2,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,07/02/2020,4You,Jeanna Davis,female,45
+137,2,Recife (PE),Florianopolis (SC),firstClass,1371.83,1.76,676.53,Rainbow,07/16/2020,2,Hotel A,Florianopolis (SC),3,313.02,939.06,07/16/2020,4You,Brittany Brahler,none,60
+137,2,Florianopolis (SC),Recife (PE),firstClass,1175.62,1.76,676.53,Rainbow,07/19/2020,2,Hotel A,Florianopolis (SC),3,313.02,939.06,07/16/2020,4You,Brittany Brahler,none,60
+150,2,Brasilia (DF),Aracaju (SE),firstClass,1214.82,1.11,425.98,Rainbow,10/15/2020,2,Hotel Z,Aracaju (SE),2,208.04,416.08,10/15/2020,4You,Catherine Michael,none,39
+150,2,Aracaju (SE),Brasilia (DF),firstClass,959.29,1.11,425.98,Rainbow,10/17/2020,2,Hotel Z,Aracaju (SE),2,208.04,416.08,10/15/2020,4You,Catherine Michael,none,39
+153,2,Aracaju (SE),Campo Grande (MS),premium,1021.53,1.69,650.1,CloudFy,11/05/2020,2,Hotel BW,Campo Grande (MS),4,60.39,241.56,11/05/2020,4You,Tona Buri,female,65
+153,2,Campo Grande (MS),Aracaju (SE),premium,1215.45,1.69,650.1,CloudFy,11/09/2020,2,Hotel BW,Campo Grande (MS),4,60.39,241.56,11/05/2020,4You,Tona Buri,female,65
+156,2,Recife (PE),Brasilia (DF),firstClass,697.22,0.63,242.21,FlyingDrops,11/26/2020,2,Hotel BP,Brasilia (DF),2,247.62,495.24,11/26/2020,4You,Shannon Buitron,female,53
+156,2,Brasilia (DF),Recife (PE),firstClass,691.39,0.63,242.21,FlyingDrops,11/28/2020,2,Hotel BP,Brasilia (DF),2,247.62,495.24,11/26/2020,4You,Shannon Buitron,female,53
+160,2,Recife (PE),Campo Grande (MS),economic,563.71,1.39,535.4,CloudFy,12/24/2020,2,Hotel BW,Campo Grande (MS),2,60.39,120.78,12/24/2020,4You,Juan Stevenson,none,43
+160,2,Campo Grande (MS),Recife (PE),economic,659.43,1.39,535.4,CloudFy,12/26/2020,2,Hotel BW,Campo Grande (MS),2,60.39,120.78,12/24/2020,4You,Juan Stevenson,none,43
+165,2,Recife (PE),Natal (RN),firstClass,633.71,0.58,222.67,FlyingDrops,01/28/2021,2,Hotel BD,Natal (RN),3,242.88,728.64,01/28/2021,4You,Christine Burlingham,none,62
+165,2,Natal (RN),Recife (PE),firstClass,694.42,0.58,222.67,FlyingDrops,01/31/2021,2,Hotel BD,Natal (RN),3,242.88,728.64,01/28/2021,4You,Christine Burlingham,none,62
+177,2,Brasilia (DF),Aracaju (SE),premium,965.62,1.11,425.98,Rainbow,04/22/2021,2,Hotel Z,Aracaju (SE),2,208.04,416.08,04/22/2021,4You,Brent Jaynes,male,55
+177,2,Aracaju (SE),Brasilia (DF),premium,706.36,1.11,425.98,Rainbow,04/24/2021,2,Hotel Z,Aracaju (SE),2,208.04,416.08,04/22/2021,4You,Brent Jaynes,male,55
+180,2,Aracaju (SE),Campo Grande (MS),premium,1116.83,1.69,650.1,Rainbow,05/13/2021,2,Hotel BW,Campo Grande (MS),3,60.39,181.17,05/13/2021,4You,William Prahm,male,27
+180,2,Campo Grande (MS),Aracaju (SE),premium,1146.95,1.69,650.1,Rainbow,05/16/2021,2,Hotel BW,Campo Grande (MS),3,60.39,181.17,05/13/2021,4You,William Prahm,male,27
+187,2,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,07/01/2021,2,Hotel Z,Aracaju (SE),3,208.04,624.12,07/01/2021,4You,Merle Gravatt,male,59
+187,2,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,07/04/2021,2,Hotel Z,Aracaju (SE),3,208.04,624.12,07/01/2021,4You,Merle Gravatt,male,59
+188,2,Brasilia (DF),Sao Paulo (SP),premium,750.0,0.67,257.81,Rainbow,07/08/2021,2,Hotel AF,Sao Paulo (SP),2,139.1,278.2,07/08/2021,4You,Donald Kingsley,male,24
+188,2,Sao Paulo (SP),Brasilia (DF),premium,586.06,0.67,257.81,Rainbow,07/10/2021,2,Hotel AF,Sao Paulo (SP),2,139.1,278.2,07/08/2021,4You,Donald Kingsley,male,24
+189,2,Aracaju (SE),Salvador (BH),firstClass,1723.71,2.16,830.86,Rainbow,07/15/2021,2,Hotel K,Salvador (BH),4,263.41,1053.64,07/15/2021,4You,Nicholas Goodman,male,31
+189,2,Salvador (BH),Aracaju (SE),firstClass,1520.02,2.16,830.86,Rainbow,07/19/2021,2,Hotel K,Salvador (BH),4,263.41,1053.64,07/15/2021,4You,Nicholas Goodman,male,31
+192,2,Brasilia (DF),Florianopolis (SC),economic,884.94,1.66,637.56,CloudFy,08/05/2021,2,Hotel A,Florianopolis (SC),4,313.02,1252.08,08/05/2021,4You,Jordan Williams,male,41
+192,2,Florianopolis (SC),Brasilia (DF),economic,636.51,1.66,637.56,CloudFy,08/09/2021,2,Hotel A,Florianopolis (SC),4,313.02,1252.08,08/05/2021,4You,Jordan Williams,male,41
+197,2,Brasilia (DF),Florianopolis (SC),premium,1222.24,1.66,637.56,Rainbow,09/09/2021,2,Hotel A,Florianopolis (SC),3,313.02,939.06,09/09/2021,4You,Roger Chavers,male,23
+197,2,Florianopolis (SC),Brasilia (DF),premium,814.55,1.66,637.56,Rainbow,09/12/2021,2,Hotel A,Florianopolis (SC),3,313.02,939.06,09/09/2021,4You,Roger Chavers,male,23
+201,2,Aracaju (SE),Florianopolis (SC),firstClass,1582.41,2.1,808.85,Rainbow,10/07/2021,2,Hotel A,Florianopolis (SC),2,313.02,626.04,10/07/2021,4You,Emerson Martindale,male,41
+201,2,Florianopolis (SC),Aracaju (SE),firstClass,1582.1,2.1,808.85,Rainbow,10/09/2021,2,Hotel A,Florianopolis (SC),2,313.02,626.04,10/07/2021,4You,Emerson Martindale,male,41
+205,2,Brasilia (DF),Rio de Janeiro (RJ),firstClass,539.39,0.48,183.37,FlyingDrops,11/04/2021,2,Hotel CB,Rio de Janeiro (RJ),2,165.99,331.98,11/04/2021,4You,Kelley Bradford,none,24
+205,2,Rio de Janeiro (RJ),Brasilia (DF),firstClass,591.19,0.48,183.37,FlyingDrops,11/06/2021,2,Hotel CB,Rio de Janeiro (RJ),2,165.99,331.98,11/04/2021,4You,Kelley Bradford,none,24
+211,2,Recife (PE),Aracaju (SE),economic,663.23,1.44,555.74,Rainbow,12/16/2021,2,Hotel Z,Aracaju (SE),3,208.04,624.12,12/16/2021,4You,Jessica Shepard,female,57
+211,2,Aracaju (SE),Recife (PE),economic,602.49,1.44,555.74,Rainbow,12/19/2021,2,Hotel Z,Aracaju (SE),3,208.04,624.12,12/16/2021,4You,Jessica Shepard,female,57
+213,2,Brasilia (DF),Salvador (BH),economic,921.08,1.76,676.56,Rainbow,12/30/2021,2,Hotel K,Salvador (BH),3,263.41,790.23,12/30/2021,4You,Paulette Olney,female,44
+213,2,Salvador (BH),Brasilia (DF),economic,609.83,1.76,676.56,Rainbow,01/02/2022,2,Hotel K,Salvador (BH),3,263.41,790.23,12/30/2021,4You,Paulette Olney,female,44
+214,2,Aracaju (SE),Recife (PE),economic,604.14,1.44,555.74,CloudFy,01/06/2022,2,Hotel AU,Recife (PE),1,312.83,312.83,01/06/2022,4You,Bernice Martinez,female,62
+214,2,Recife (PE),Aracaju (SE),economic,684.88,1.44,555.74,CloudFy,01/07/2022,2,Hotel AU,Recife (PE),1,312.83,312.83,01/06/2022,4You,Bernice Martinez,female,62
+219,2,Brasilia (DF),Florianopolis (SC),economic,889.07,1.66,637.56,Rainbow,02/10/2022,2,Hotel A,Florianopolis (SC),2,313.02,626.04,02/10/2022,4You,Delia Romero,none,59
+219,2,Florianopolis (SC),Brasilia (DF),economic,555.01,1.66,637.56,Rainbow,02/12/2022,2,Hotel A,Florianopolis (SC),2,313.02,626.04,02/10/2022,4You,Delia Romero,none,59
+221,2,Aracaju (SE),Salvador (BH),economic,943.36,2.16,830.86,Rainbow,02/24/2022,2,Hotel K,Salvador (BH),1,263.41,263.41,02/24/2022,4You,Ruth Nava,female,58
+221,2,Salvador (BH),Aracaju (SE),economic,826.02,2.16,830.86,Rainbow,02/25/2022,2,Hotel K,Salvador (BH),1,263.41,263.41,02/24/2022,4You,Ruth Nava,female,58
+224,2,Aracaju (SE),Brasilia (DF),premium,755.62,1.11,425.98,CloudFy,03/17/2022,2,Hotel BP,Brasilia (DF),3,247.62,742.86,03/17/2022,4You,Lucille Merkle,female,65
+224,2,Brasilia (DF),Aracaju (SE),premium,987.07,1.11,425.98,CloudFy,03/20/2022,2,Hotel BP,Brasilia (DF),3,247.62,742.86,03/17/2022,4You,Lucille Merkle,female,65
+225,2,Brasilia (DF),Natal (RN),premium,1067.3,1.43,550.69,CloudFy,03/24/2022,2,Hotel BD,Natal (RN),4,242.88,971.52,03/24/2022,4You,Carol Tinkham,none,35
+225,2,Natal (RN),Brasilia (DF),premium,898.46,1.43,550.69,CloudFy,03/28/2022,2,Hotel BD,Natal (RN),4,242.88,971.52,03/24/2022,4You,Carol Tinkham,none,35
+233,3,Brasilia (DF),Florianopolis (SC),firstClass,1569.65,1.66,637.56,FlyingDrops,11/14/2019,3,Hotel A,Florianopolis (SC),2,313.02,626.04,11/14/2019,4You,Anna Broyles,female,63
+233,3,Florianopolis (SC),Brasilia (DF),firstClass,1097.17,1.66,637.56,FlyingDrops,11/16/2019,3,Hotel A,Florianopolis (SC),2,313.02,626.04,11/14/2019,4You,Anna Broyles,female,63
+235,3,Brasilia (DF),Florianopolis (SC),economic,889.07,1.66,637.56,Rainbow,11/28/2019,3,Hotel A,Florianopolis (SC),3,313.02,939.06,11/28/2019,4You,Bonnie Martinez,female,49
+235,3,Florianopolis (SC),Brasilia (DF),economic,555.01,1.66,637.56,Rainbow,12/01/2019,3,Hotel A,Florianopolis (SC),3,313.02,939.06,11/28/2019,4You,Bonnie Martinez,female,49
+238,3,Recife (PE),Florianopolis (SC),premium,1070.54,1.76,676.53,Rainbow,12/19/2019,3,Hotel A,Florianopolis (SC),2,313.02,626.04,12/19/2019,4You,Charles Baker,male,38
+238,3,Florianopolis (SC),Recife (PE),premium,1013.4,1.76,676.53,Rainbow,12/21/2019,3,Hotel A,Florianopolis (SC),2,313.02,626.04,12/19/2019,4You,Charles Baker,male,38
+239,3,Recife (PE),Florianopolis (SC),firstClass,1434.38,1.76,676.53,FlyingDrops,12/26/2019,3,Hotel A,Florianopolis (SC),2,313.02,626.04,12/26/2019,4You,Julie Berman,female,51
+239,3,Florianopolis (SC),Recife (PE),firstClass,1292.29,1.76,676.53,FlyingDrops,12/28/2019,3,Hotel A,Florianopolis (SC),2,313.02,626.04,12/26/2019,4You,Julie Berman,female,51
+240,3,Recife (PE),Brasilia (DF),economic,439.38,0.63,242.21,Rainbow,01/02/2020,3,Hotel BP,Brasilia (DF),4,247.62,990.48,01/02/2020,4You,Foster King,none,33
+240,3,Brasilia (DF),Recife (PE),economic,421.2,0.63,242.21,Rainbow,01/06/2020,3,Hotel BP,Brasilia (DF),4,247.62,990.48,01/02/2020,4You,Foster King,none,33
+241,3,Recife (PE),Florianopolis (SC),premium,1074.75,1.76,676.53,CloudFy,01/09/2020,3,Hotel A,Florianopolis (SC),1,313.02,313.02,01/09/2020,4You,Sonia Malaspina,female,63
+241,3,Florianopolis (SC),Recife (PE),premium,918.66,1.76,676.53,CloudFy,01/10/2020,3,Hotel A,Florianopolis (SC),1,313.02,313.02,01/09/2020,4You,Sonia Malaspina,female,63
+243,3,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1183.57,1.55,597.61,CloudFy,01/23/2020,3,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,01/23/2020,4You,Jason Griess,none,45
+243,3,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1446.4,1.55,597.61,CloudFy,01/24/2020,3,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,01/23/2020,4You,Jason Griess,none,45
+244,3,Aracaju (SE),Recife (PE),economic,602.49,1.44,555.74,Rainbow,01/30/2020,3,Hotel AU,Recife (PE),4,312.83,1251.32,01/30/2020,4You,Opal Valles,female,45
+244,3,Recife (PE),Aracaju (SE),economic,663.23,1.44,555.74,Rainbow,02/03/2020,3,Hotel AU,Recife (PE),4,312.83,1251.32,01/30/2020,4You,Opal Valles,female,45
+246,3,Brasilia (DF),Recife (PE),economic,432.1,0.63,242.21,CloudFy,02/13/2020,3,Hotel AU,Recife (PE),2,312.83,625.66,02/13/2020,4You,Dorothy Richardson,female,33
+246,3,Recife (PE),Brasilia (DF),economic,393.68,0.63,242.21,CloudFy,02/15/2020,3,Hotel AU,Recife (PE),2,312.83,625.66,02/13/2020,4You,Dorothy Richardson,female,33
+248,3,Recife (PE),Campo Grande (MS),premium,793.15,1.39,535.4,CloudFy,02/27/2020,3,Hotel BW,Campo Grande (MS),2,60.39,120.78,02/27/2020,4You,Monica Chafin,female,49
+248,3,Campo Grande (MS),Recife (PE),premium,959.91,1.39,535.4,CloudFy,02/29/2020,3,Hotel BW,Campo Grande (MS),2,60.39,120.78,02/27/2020,4You,Monica Chafin,female,49
+255,3,Aracaju (SE),Florianopolis (SC),firstClass,1499.93,2.1,808.85,FlyingDrops,04/16/2020,3,Hotel A,Florianopolis (SC),1,313.02,313.02,04/16/2020,4You,Arthur Hoag,male,31
+255,3,Florianopolis (SC),Aracaju (SE),firstClass,1574.28,2.1,808.85,FlyingDrops,04/17/2020,3,Hotel A,Florianopolis (SC),1,313.02,313.02,04/16/2020,4You,Arthur Hoag,male,31
+259,3,Brasilia (DF),Natal (RN),firstClass,1433.35,1.43,550.69,FlyingDrops,05/14/2020,3,Hotel BD,Natal (RN),2,242.88,485.76,05/14/2020,4You,Helen Walton,none,49
+259,3,Natal (RN),Brasilia (DF),firstClass,1192.62,1.43,550.69,FlyingDrops,05/16/2020,3,Hotel BD,Natal (RN),2,242.88,485.76,05/14/2020,4You,Helen Walton,none,49
+263,3,Brasilia (DF),Campo Grande (MS),premium,851.15,0.72,277.7,Rainbow,06/11/2020,3,Hotel BW,Campo Grande (MS),3,60.39,181.17,06/11/2020,4You,John Lewis,none,34
+263,3,Campo Grande (MS),Brasilia (DF),premium,691.99,0.72,277.7,Rainbow,06/14/2020,3,Hotel BW,Campo Grande (MS),3,60.39,181.17,06/11/2020,4You,John Lewis,none,34
+269,3,Brasilia (DF),Rio de Janeiro (RJ),firstClass,586.04,0.48,183.37,Rainbow,07/23/2020,3,Hotel CB,Rio de Janeiro (RJ),2,165.99,331.98,07/23/2020,4You,Sandra Banks,none,49
+269,3,Rio de Janeiro (RJ),Brasilia (DF),firstClass,687.25,0.48,183.37,Rainbow,07/25/2020,3,Hotel CB,Rio de Janeiro (RJ),2,165.99,331.98,07/23/2020,4You,Sandra Banks,none,49
+275,3,Brasilia (DF),Natal (RN),economic,726.19,1.43,550.69,Rainbow,09/03/2020,3,Hotel BD,Natal (RN),2,242.88,485.76,09/03/2020,4You,Allen Strode,none,60
+275,3,Natal (RN),Brasilia (DF),economic,686.79,1.43,550.69,Rainbow,09/05/2020,3,Hotel BD,Natal (RN),2,242.88,485.76,09/03/2020,4You,Allen Strode,none,60
+279,3,Recife (PE),Natal (RN),premium,474.6,0.58,222.67,CloudFy,10/01/2020,3,Hotel BD,Natal (RN),1,242.88,242.88,10/01/2020,4You,Mildred Jackson,female,49
+279,3,Natal (RN),Recife (PE),premium,563.23,0.58,222.67,CloudFy,10/02/2020,3,Hotel BD,Natal (RN),1,242.88,242.88,10/01/2020,4You,Mildred Jackson,female,49
+283,3,Recife (PE),Sao Paulo (SP),premium,670.13,1.26,486.52,Rainbow,10/29/2020,3,Hotel AF,Sao Paulo (SP),1,139.1,139.1,10/29/2020,4You,Barbara Faust,female,42
+283,3,Sao Paulo (SP),Recife (PE),premium,1145.72,1.26,486.52,Rainbow,10/30/2020,3,Hotel AF,Sao Paulo (SP),1,139.1,139.1,10/29/2020,4You,Barbara Faust,female,42
+287,3,Brasilia (DF),Recife (PE),firstClass,691.39,0.63,242.21,FlyingDrops,11/26/2020,3,Hotel AU,Recife (PE),1,312.83,312.83,11/26/2020,4You,Bradley Barone,none,39
+287,3,Recife (PE),Brasilia (DF),firstClass,697.22,0.63,242.21,FlyingDrops,11/27/2020,3,Hotel AU,Recife (PE),1,312.83,312.83,11/26/2020,4You,Bradley Barone,none,39
+290,3,Recife (PE),Campo Grande (MS),firstClass,1069.12,1.39,535.4,Rainbow,12/17/2020,3,Hotel BW,Campo Grande (MS),1,60.39,60.39,12/17/2020,4You,Kristina Miller,none,43
+290,3,Campo Grande (MS),Recife (PE),firstClass,1185.95,1.39,535.4,Rainbow,12/18/2020,3,Hotel BW,Campo Grande (MS),1,60.39,60.39,12/17/2020,4You,Kristina Miller,none,43
+291,3,Brasilia (DF),Salvador (BH),economic,921.08,1.76,676.56,Rainbow,12/24/2020,3,Hotel K,Salvador (BH),1,263.41,263.41,12/24/2020,4You,Larry Dupree,male,36
+291,3,Salvador (BH),Brasilia (DF),economic,609.83,1.76,676.56,Rainbow,12/25/2020,3,Hotel K,Salvador (BH),1,263.41,263.41,12/24/2020,4You,Larry Dupree,male,36
+295,3,Recife (PE),Natal (RN),firstClass,669.83,0.58,222.67,CloudFy,01/21/2021,3,Hotel BD,Natal (RN),4,242.88,971.52,01/21/2021,4You,Jenna Center,female,60
+295,3,Natal (RN),Recife (PE),firstClass,744.11,0.58,222.67,CloudFy,01/25/2021,3,Hotel BD,Natal (RN),4,242.88,971.52,01/21/2021,4You,Jenna Center,female,60
+296,3,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,01/28/2021,3,Hotel AU,Recife (PE),3,312.83,938.49,01/28/2021,4You,James Fouche,none,28
+296,3,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,01/31/2021,3,Hotel AU,Recife (PE),3,312.83,938.49,01/28/2021,4You,James Fouche,none,28
+299,3,Recife (PE),Sao Paulo (SP),economic,513.06,1.26,486.52,CloudFy,02/18/2021,3,Hotel AF,Sao Paulo (SP),3,139.1,417.3,02/18/2021,4You,Robert Herrera,none,28
+299,3,Sao Paulo (SP),Recife (PE),economic,829.91,1.26,486.52,CloudFy,02/21/2021,3,Hotel AF,Sao Paulo (SP),3,139.1,417.3,02/18/2021,4You,Robert Herrera,none,28
+300,3,Brasilia (DF),Salvador (BH),premium,1268.97,1.76,676.56,Rainbow,02/25/2021,3,Hotel K,Salvador (BH),3,263.41,790.23,02/25/2021,4You,Misty Garcia,none,25
+300,3,Salvador (BH),Brasilia (DF),premium,882.86,1.76,676.56,Rainbow,02/28/2021,3,Hotel K,Salvador (BH),3,263.41,790.23,02/25/2021,4You,Misty Garcia,none,25
+303,3,Aracaju (SE),Campo Grande (MS),firstClass,1387.89,1.69,650.1,Rainbow,03/18/2021,3,Hotel BW,Campo Grande (MS),1,60.39,60.39,03/18/2021,4You,Richard Gomez,male,56
+303,3,Campo Grande (MS),Aracaju (SE),firstClass,1545.78,1.69,650.1,Rainbow,03/19/2021,3,Hotel BW,Campo Grande (MS),1,60.39,60.39,03/18/2021,4You,Richard Gomez,male,56
+305,3,Recife (PE),Natal (RN),economic,301.51,0.58,222.67,CloudFy,04/01/2021,3,Hotel BD,Natal (RN),4,242.88,971.52,04/01/2021,4You,Sarah Willis,female,50
+305,3,Natal (RN),Recife (PE),economic,429.77,0.58,222.67,CloudFy,04/05/2021,3,Hotel BD,Natal (RN),4,242.88,971.52,04/01/2021,4You,Sarah Willis,female,50
+306,3,Aracaju (SE),Florianopolis (SC),premium,1174.97,2.1,808.85,CloudFy,04/08/2021,3,Hotel A,Florianopolis (SC),3,313.02,939.06,04/08/2021,4You,Darren Bennett,none,43
+306,3,Florianopolis (SC),Aracaju (SE),premium,1149.53,2.1,808.85,CloudFy,04/11/2021,3,Hotel A,Florianopolis (SC),3,313.02,939.06,04/08/2021,4You,Darren Bennett,none,43
+307,3,Aracaju (SE),Natal (RN),premium,535.95,0.46,176.33,CloudFy,04/15/2021,3,Hotel BD,Natal (RN),2,242.88,485.76,04/15/2021,4You,Robert Legros,male,59
+307,3,Natal (RN),Aracaju (SE),premium,451.41,0.46,176.33,CloudFy,04/17/2021,3,Hotel BD,Natal (RN),2,242.88,485.76,04/15/2021,4You,Robert Legros,male,59
+311,3,Aracaju (SE),Sao Paulo (SP),economic,410.79,1.02,392.76,CloudFy,05/13/2021,3,Hotel AF,Sao Paulo (SP),2,139.1,278.2,05/13/2021,4You,Sandra Mitchell,none,30
+311,3,Sao Paulo (SP),Aracaju (SE),economic,722.74,1.02,392.76,CloudFy,05/15/2021,3,Hotel AF,Sao Paulo (SP),2,139.1,278.2,05/13/2021,4You,Sandra Mitchell,none,30
+315,3,Recife (PE),Rio de Janeiro (RJ),premium,1270.03,2.3,885.57,CloudFy,06/10/2021,3,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,06/10/2021,4You,Alfred Atkinson,none,61
+315,3,Rio de Janeiro (RJ),Recife (PE),premium,1333.52,2.3,885.57,CloudFy,06/13/2021,3,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,06/10/2021,4You,Alfred Atkinson,none,61
+322,3,Aracaju (SE),Natal (RN),firstClass,598.61,0.46,176.33,CloudFy,07/29/2021,3,Hotel BD,Natal (RN),1,242.88,242.88,07/29/2021,4You,Wallace Gallardo,male,56
+322,3,Natal (RN),Aracaju (SE),firstClass,576.66,0.46,176.33,CloudFy,07/30/2021,3,Hotel BD,Natal (RN),1,242.88,242.88,07/29/2021,4You,Wallace Gallardo,male,56
+325,3,Brasilia (DF),Rio de Janeiro (RJ),firstClass,649.64,0.48,183.37,CloudFy,08/19/2021,3,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,08/19/2021,4You,Christine Lowery,none,24
+325,3,Rio de Janeiro (RJ),Brasilia (DF),firstClass,688.06,0.48,183.37,CloudFy,08/22/2021,3,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,08/19/2021,4You,Christine Lowery,none,24
+337,3,Aracaju (SE),Rio de Janeiro (RJ),economic,717.04,1.55,597.61,CloudFy,11/11/2021,3,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,11/11/2021,4You,Hans Bryan,none,37
+337,3,Rio de Janeiro (RJ),Aracaju (SE),economic,796.42,1.55,597.61,CloudFy,11/14/2021,3,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,11/11/2021,4You,Hans Bryan,none,37
+338,3,Brasilia (DF),Aracaju (SE),economic,721.2,1.11,425.98,Rainbow,11/18/2021,3,Hotel Z,Aracaju (SE),3,208.04,624.12,11/18/2021,4You,Randy Sao,male,65
+338,3,Aracaju (SE),Brasilia (DF),economic,548.62,1.11,425.98,Rainbow,11/21/2021,3,Hotel Z,Aracaju (SE),3,208.04,624.12,11/18/2021,4You,Randy Sao,male,65
+347,3,Recife (PE),Brasilia (DF),economic,393.68,0.63,242.21,CloudFy,01/20/2022,3,Hotel BP,Brasilia (DF),1,247.62,247.62,01/20/2022,4You,Keith Sherman,male,35
+347,3,Brasilia (DF),Recife (PE),economic,432.1,0.63,242.21,CloudFy,01/21/2022,3,Hotel BP,Brasilia (DF),1,247.62,247.62,01/20/2022,4You,Keith Sherman,male,35
+350,3,Recife (PE),Natal (RN),premium,474.6,0.58,222.67,CloudFy,02/10/2022,3,Hotel BD,Natal (RN),1,242.88,242.88,02/10/2022,4You,Sam Abernathy,male,25
+350,3,Natal (RN),Recife (PE),premium,563.23,0.58,222.67,CloudFy,02/11/2022,3,Hotel BD,Natal (RN),1,242.88,242.88,02/10/2022,4You,Sam Abernathy,male,25
+363,3,Brasilia (DF),Sao Paulo (SP),firstClass,992.17,0.67,257.81,Rainbow,05/12/2022,3,Hotel AF,Sao Paulo (SP),1,139.1,139.1,05/12/2022,4You,Abby Small,female,25
+363,3,Sao Paulo (SP),Brasilia (DF),firstClass,824.31,0.67,257.81,Rainbow,05/13/2022,3,Hotel AF,Sao Paulo (SP),1,139.1,139.1,05/12/2022,4You,Abby Small,female,25
+369,3,Brasilia (DF),Recife (PE),firstClass,772.21,0.63,242.21,Rainbow,06/23/2022,3,Hotel AU,Recife (PE),3,312.83,938.49,06/23/2022,4You,Bart Haverstock,male,21
+369,3,Recife (PE),Brasilia (DF),firstClass,721.93,0.63,242.21,Rainbow,06/26/2022,3,Hotel AU,Recife (PE),3,312.83,938.49,06/23/2022,4You,Bart Haverstock,male,21
+373,3,Recife (PE),Campo Grande (MS),firstClass,1038.95,1.39,535.4,FlyingDrops,07/21/2022,3,Hotel BW,Campo Grande (MS),4,60.39,241.56,07/21/2022,4You,Jame Carter,female,65
+373,3,Campo Grande (MS),Recife (PE),firstClass,1262.23,1.39,535.4,FlyingDrops,07/25/2022,3,Hotel BW,Campo Grande (MS),4,60.39,241.56,07/21/2022,4You,Jame Carter,female,65
+377,3,Aracaju (SE),Florianopolis (SC),economic,869.13,2.1,808.85,CloudFy,08/18/2022,3,Hotel A,Florianopolis (SC),4,313.02,1252.08,08/18/2022,4You,Larry Faron,male,24
+377,3,Florianopolis (SC),Aracaju (SE),economic,879.1,2.1,808.85,CloudFy,08/22/2022,3,Hotel A,Florianopolis (SC),4,313.02,1252.08,08/18/2022,4You,Larry Faron,male,24
+382,3,Recife (PE),Salvador (BH),premium,1242.65,2.05,788.55,CloudFy,09/22/2022,3,Hotel K,Salvador (BH),2,263.41,526.82,09/22/2022,4You,Arthur Mckinnis,none,25
+382,3,Salvador (BH),Recife (PE),premium,1016.53,2.05,788.55,CloudFy,09/24/2022,3,Hotel K,Salvador (BH),2,263.41,526.82,09/22/2022,4You,Arthur Mckinnis,none,25
+383,3,Aracaju (SE),Florianopolis (SC),economic,852.18,2.1,808.85,Rainbow,09/29/2022,3,Hotel A,Florianopolis (SC),2,313.02,626.04,09/29/2022,4You,Gabriel Mantini,none,39
+383,3,Florianopolis (SC),Aracaju (SE),economic,819.41,2.1,808.85,Rainbow,10/01/2022,3,Hotel A,Florianopolis (SC),2,313.02,626.04,09/29/2022,4You,Gabriel Mantini,none,39
+385,3,Recife (PE),Campo Grande (MS),economic,615.59,1.39,535.4,Rainbow,10/13/2022,3,Hotel BW,Campo Grande (MS),2,60.39,120.78,10/13/2022,4You,Jeffery Gill,male,53
+385,3,Campo Grande (MS),Recife (PE),economic,674.16,1.39,535.4,Rainbow,10/15/2022,3,Hotel BW,Campo Grande (MS),2,60.39,120.78,10/13/2022,4You,Jeffery Gill,male,53
+387,3,Brasilia (DF),Sao Paulo (SP),premium,698.1,0.67,257.81,CloudFy,10/27/2022,3,Hotel AF,Sao Paulo (SP),3,139.1,417.3,10/27/2022,4You,Dorothy Barnes,none,21
+387,3,Sao Paulo (SP),Brasilia (DF),premium,602.12,0.67,257.81,CloudFy,10/30/2022,3,Hotel AF,Sao Paulo (SP),3,139.1,417.3,10/27/2022,4You,Dorothy Barnes,none,21
+388,3,Aracaju (SE),Natal (RN),premium,535.95,0.46,176.33,CloudFy,11/03/2022,3,Hotel BD,Natal (RN),4,242.88,971.52,11/03/2022,4You,Virgie Humphrys,female,23
+388,3,Natal (RN),Aracaju (SE),premium,451.41,0.46,176.33,CloudFy,11/07/2022,3,Hotel BD,Natal (RN),4,242.88,971.52,11/03/2022,4You,Virgie Humphrys,female,23
+394,3,Aracaju (SE),Salvador (BH),firstClass,1723.71,2.16,830.86,Rainbow,12/15/2022,3,Hotel K,Salvador (BH),4,263.41,1053.64,12/15/2022,4You,Tom Floyd,none,48
+394,3,Salvador (BH),Aracaju (SE),firstClass,1520.02,2.16,830.86,Rainbow,12/19/2022,3,Hotel K,Salvador (BH),4,263.41,1053.64,12/15/2022,4You,Tom Floyd,none,48
+397,3,Brasilia (DF),Recife (PE),economic,432.1,0.63,242.21,CloudFy,01/05/2023,3,Hotel AU,Recife (PE),4,312.83,1251.32,01/05/2023,4You,Robert Clark,male,28
+397,3,Recife (PE),Brasilia (DF),economic,393.68,0.63,242.21,CloudFy,01/09/2023,3,Hotel AU,Recife (PE),4,312.83,1251.32,01/05/2023,4You,Robert Clark,male,28
+398,3,Recife (PE),Campo Grande (MS),firstClass,1038.95,1.39,535.4,FlyingDrops,01/12/2023,3,Hotel BW,Campo Grande (MS),4,60.39,241.56,01/12/2023,4You,Christine Spillane,female,29
+398,3,Campo Grande (MS),Recife (PE),firstClass,1262.23,1.39,535.4,FlyingDrops,01/16/2023,3,Hotel BW,Campo Grande (MS),4,60.39,241.56,01/12/2023,4You,Christine Spillane,female,29
+403,3,Recife (PE),Sao Paulo (SP),economic,545.95,1.26,486.52,Rainbow,02/16/2023,3,Hotel AF,Sao Paulo (SP),3,139.1,417.3,02/16/2023,4You,Oliver Williams,none,49
+403,3,Sao Paulo (SP),Recife (PE),economic,827.12,1.26,486.52,Rainbow,02/19/2023,3,Hotel AF,Sao Paulo (SP),3,139.1,417.3,02/16/2023,4You,Oliver Williams,none,49
+404,3,Brasilia (DF),Aracaju (SE),firstClass,1260.1,1.11,425.98,CloudFy,02/23/2023,3,Hotel Z,Aracaju (SE),1,208.04,208.04,02/23/2023,4You,Ana Hudson,none,23
+404,3,Aracaju (SE),Brasilia (DF),firstClass,957.68,1.11,425.98,CloudFy,02/24/2023,3,Hotel Z,Aracaju (SE),1,208.04,208.04,02/23/2023,4You,Ana Hudson,none,23
+406,3,Recife (PE),Natal (RN),premium,474.6,0.58,222.67,CloudFy,03/09/2023,3,Hotel BD,Natal (RN),2,242.88,485.76,03/09/2023,4You,William Jemmott,male,21
+406,3,Natal (RN),Recife (PE),premium,563.23,0.58,222.67,CloudFy,03/11/2023,3,Hotel BD,Natal (RN),2,242.88,485.76,03/09/2023,4You,William Jemmott,male,21
+408,3,Recife (PE),Salvador (BH),premium,1249.83,2.05,788.55,Rainbow,03/23/2023,3,Hotel K,Salvador (BH),1,263.41,263.41,03/23/2023,4You,Richard Anaya,none,59
+408,3,Salvador (BH),Recife (PE),premium,1103.23,2.05,788.55,Rainbow,03/24/2023,3,Hotel K,Salvador (BH),1,263.41,263.41,03/23/2023,4You,Richard Anaya,none,59
+409,3,Aracaju (SE),Salvador (BH),firstClass,1684.05,2.16,830.86,CloudFy,03/30/2023,3,Hotel K,Salvador (BH),3,263.41,790.23,03/30/2023,4You,Frank Strawn,none,32
+409,3,Salvador (BH),Aracaju (SE),firstClass,1531.92,2.16,830.86,CloudFy,04/02/2023,3,Hotel K,Salvador (BH),3,263.41,790.23,03/30/2023,4You,Frank Strawn,none,32
+410,3,Recife (PE),Campo Grande (MS),premium,832.77,1.39,535.4,Rainbow,04/06/2023,3,Hotel BW,Campo Grande (MS),3,60.39,181.17,04/06/2023,4You,Marilyn Wix,none,39
+410,3,Campo Grande (MS),Recife (PE),premium,991.22,1.39,535.4,Rainbow,04/09/2023,3,Hotel BW,Campo Grande (MS),3,60.39,181.17,04/06/2023,4You,Marilyn Wix,none,39
+412,3,Aracaju (SE),Florianopolis (SC),firstClass,1499.93,2.1,808.85,FlyingDrops,04/20/2023,3,Hotel A,Florianopolis (SC),2,313.02,626.04,04/20/2023,4You,Teresa Sanchez,none,21
+412,3,Florianopolis (SC),Aracaju (SE),firstClass,1574.28,2.1,808.85,FlyingDrops,04/22/2023,3,Hotel A,Florianopolis (SC),2,313.02,626.04,04/20/2023,4You,Teresa Sanchez,none,21
+415,3,Aracaju (SE),Rio de Janeiro (RJ),premium,930.12,1.55,597.61,Rainbow,05/11/2023,3,Hotel CB,Rio de Janeiro (RJ),2,165.99,331.98,05/11/2023,4You,Barbara Oliver,none,61
+415,3,Rio de Janeiro (RJ),Aracaju (SE),premium,1098.93,1.55,597.61,Rainbow,05/13/2023,3,Hotel CB,Rio de Janeiro (RJ),2,165.99,331.98,05/11/2023,4You,Barbara Oliver,none,61
+417,3,Recife (PE),Natal (RN),premium,488.73,0.58,222.67,Rainbow,05/25/2023,3,Hotel BD,Natal (RN),2,242.88,485.76,05/25/2023,4You,Dana King,none,35
+417,3,Natal (RN),Recife (PE),premium,579.62,0.58,222.67,Rainbow,05/27/2023,3,Hotel BD,Natal (RN),2,242.88,485.76,05/25/2023,4You,Dana King,none,35
+418,3,Aracaju (SE),Recife (PE),premium,875.41,1.44,555.74,Rainbow,06/01/2023,3,Hotel AU,Recife (PE),1,312.83,312.83,06/01/2023,4You,Frank Street,none,61
+418,3,Recife (PE),Aracaju (SE),premium,932.22,1.44,555.74,Rainbow,06/02/2023,3,Hotel AU,Recife (PE),1,312.83,312.83,06/01/2023,4You,Frank Street,none,61
+419,3,Aracaju (SE),Campo Grande (MS),firstClass,1389.37,1.69,650.1,CloudFy,06/08/2023,3,Hotel BW,Campo Grande (MS),2,60.39,120.78,06/08/2023,4You,Tanya Donahue,none,36
+419,3,Campo Grande (MS),Aracaju (SE),firstClass,1581.8,1.69,650.1,CloudFy,06/10/2023,3,Hotel BW,Campo Grande (MS),2,60.39,120.78,06/08/2023,4You,Tanya Donahue,none,36
+424,3,Aracaju (SE),Rio de Janeiro (RJ),economic,712.64,1.55,597.61,Rainbow,07/13/2023,3,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,07/13/2023,4You,Diana Mcelrath,female,59
+424,3,Rio de Janeiro (RJ),Aracaju (SE),economic,734.09,1.55,597.61,Rainbow,07/14/2023,3,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,07/13/2023,4You,Diana Mcelrath,female,59
+426,4,Aracaju (SE),Recife (PE),economic,602.49,1.44,555.74,Rainbow,10/03/2019,4,Hotel AU,Recife (PE),2,312.83,625.66,10/03/2019,4You,Amy Kun,none,65
+426,4,Recife (PE),Aracaju (SE),economic,663.23,1.44,555.74,Rainbow,10/05/2019,4,Hotel AU,Recife (PE),2,312.83,625.66,10/03/2019,4You,Amy Kun,none,65
+431,4,Brasilia (DF),Recife (PE),economic,421.2,0.63,242.21,Rainbow,11/07/2019,4,Hotel AU,Recife (PE),4,312.83,1251.32,11/07/2019,4You,Matilda Wright,none,44
+431,4,Recife (PE),Brasilia (DF),economic,439.38,0.63,242.21,Rainbow,11/11/2019,4,Hotel AU,Recife (PE),4,312.83,1251.32,11/07/2019,4You,Matilda Wright,none,44
+432,4,Brasilia (DF),Recife (PE),economic,421.2,0.63,242.21,Rainbow,11/14/2019,4,Hotel AU,Recife (PE),3,312.83,938.49,11/14/2019,4You,Linda Speight,female,52
+432,4,Recife (PE),Brasilia (DF),economic,439.38,0.63,242.21,Rainbow,11/17/2019,4,Hotel AU,Recife (PE),3,312.83,938.49,11/14/2019,4You,Linda Speight,female,52
+440,4,Brasilia (DF),Salvador (BH),firstClass,1685.23,1.76,676.56,CloudFy,01/09/2020,4,Hotel K,Salvador (BH),3,263.41,790.23,01/09/2020,4You,Donald Stallworth,none,46
+440,4,Salvador (BH),Brasilia (DF),firstClass,1032.4,1.76,676.56,CloudFy,01/12/2020,4,Hotel K,Salvador (BH),3,263.41,790.23,01/09/2020,4You,Donald Stallworth,none,46
+442,4,Brasilia (DF),Aracaju (SE),premium,965.62,1.11,425.98,Rainbow,01/23/2020,4,Hotel Z,Aracaju (SE),2,208.04,416.08,01/23/2020,4You,Renee Brock,female,24
+442,4,Aracaju (SE),Brasilia (DF),premium,706.36,1.11,425.98,Rainbow,01/25/2020,4,Hotel Z,Aracaju (SE),2,208.04,416.08,01/23/2020,4You,Renee Brock,female,24
+445,4,Recife (PE),Rio de Janeiro (RJ),firstClass,1612.39,2.3,885.57,CloudFy,02/13/2020,4,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,02/13/2020,4You,Laura Burns,female,23
+445,4,Rio de Janeiro (RJ),Recife (PE),firstClass,1664.01,2.3,885.57,CloudFy,02/14/2020,4,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,02/13/2020,4You,Laura Burns,female,23
+447,4,Brasilia (DF),Sao Paulo (SP),firstClass,992.17,0.67,257.81,Rainbow,02/27/2020,4,Hotel AF,Sao Paulo (SP),2,139.1,278.2,02/27/2020,4You,Adam Hawkins,none,43
+447,4,Sao Paulo (SP),Brasilia (DF),firstClass,824.31,0.67,257.81,Rainbow,02/29/2020,4,Hotel AF,Sao Paulo (SP),2,139.1,278.2,02/27/2020,4You,Adam Hawkins,none,43
+450,4,Aracaju (SE),Campo Grande (MS),firstClass,1389.37,1.69,650.1,CloudFy,03/19/2020,4,Hotel BW,Campo Grande (MS),2,60.39,120.78,03/19/2020,4You,Monica Briggs,none,42
+450,4,Campo Grande (MS),Aracaju (SE),firstClass,1581.8,1.69,650.1,CloudFy,03/21/2020,4,Hotel BW,Campo Grande (MS),2,60.39,120.78,03/19/2020,4You,Monica Briggs,none,42
+452,4,Aracaju (SE),Florianopolis (SC),economic,852.18,2.1,808.85,Rainbow,04/02/2020,4,Hotel A,Florianopolis (SC),1,313.02,313.02,04/02/2020,4You,Maynard Murray,none,33
+452,4,Florianopolis (SC),Aracaju (SE),economic,819.41,2.1,808.85,Rainbow,04/03/2020,4,Hotel A,Florianopolis (SC),1,313.02,313.02,04/02/2020,4You,Maynard Murray,none,33
+456,4,Brasilia (DF),Rio de Janeiro (RJ),premium,440.69,0.48,183.37,Rainbow,04/30/2020,4,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,04/30/2020,Monsters CYA,Gertrude Rice,female,36
+456,4,Rio de Janeiro (RJ),Brasilia (DF),premium,435.67,0.48,183.37,Rainbow,05/03/2020,4,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,04/30/2020,Monsters CYA,Gertrude Rice,female,36
+457,4,Recife (PE),Campo Grande (MS),premium,832.77,1.39,535.4,Rainbow,05/07/2020,4,Hotel BW,Campo Grande (MS),2,60.39,120.78,05/07/2020,Monsters CYA,Leonel Richardson,male,49
+457,4,Campo Grande (MS),Recife (PE),premium,991.22,1.39,535.4,Rainbow,05/09/2020,4,Hotel BW,Campo Grande (MS),2,60.39,120.78,05/07/2020,Monsters CYA,Leonel Richardson,male,49
+468,4,Recife (PE),Aracaju (SE),economic,663.23,1.44,555.74,Rainbow,07/23/2020,4,Hotel Z,Aracaju (SE),1,208.04,208.04,07/23/2020,Monsters CYA,Robert Terrell,male,47
+468,4,Aracaju (SE),Recife (PE),economic,602.49,1.44,555.74,Rainbow,07/24/2020,4,Hotel Z,Aracaju (SE),1,208.04,208.04,07/23/2020,Monsters CYA,Robert Terrell,male,47
+473,4,Recife (PE),Sao Paulo (SP),firstClass,954.78,1.26,486.52,FlyingDrops,08/27/2020,4,Hotel AF,Sao Paulo (SP),4,139.1,556.4,08/27/2020,Monsters CYA,Anita Smothers,female,48
+473,4,Sao Paulo (SP),Recife (PE),firstClass,1464.89,1.26,486.52,FlyingDrops,08/31/2020,4,Hotel AF,Sao Paulo (SP),4,139.1,556.4,08/27/2020,Monsters CYA,Anita Smothers,female,48
+481,4,Recife (PE),Florianopolis (SC),firstClass,1371.83,1.76,676.53,Rainbow,10/22/2020,4,Hotel A,Florianopolis (SC),4,313.02,1252.08,10/22/2020,Monsters CYA,Lyman Huizar,none,62
+481,4,Florianopolis (SC),Recife (PE),firstClass,1175.62,1.76,676.53,Rainbow,10/26/2020,4,Hotel A,Florianopolis (SC),4,313.02,1252.08,10/22/2020,Monsters CYA,Lyman Huizar,none,62
+486,4,Brasilia (DF),Aracaju (SE),premium,987.07,1.11,425.98,CloudFy,11/26/2020,4,Hotel Z,Aracaju (SE),4,208.04,832.16,11/26/2020,Monsters CYA,Katelyn Ogorman,none,46
+486,4,Aracaju (SE),Brasilia (DF),premium,755.62,1.11,425.98,CloudFy,11/30/2020,4,Hotel Z,Aracaju (SE),4,208.04,832.16,11/26/2020,Monsters CYA,Katelyn Ogorman,none,46
+490,4,Recife (PE),Rio de Janeiro (RJ),premium,1351.89,2.3,885.57,Rainbow,12/24/2020,4,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,12/24/2020,Monsters CYA,Frank Lopez,none,39
+490,4,Rio de Janeiro (RJ),Recife (PE),premium,1306.26,2.3,885.57,Rainbow,12/25/2020,4,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,12/24/2020,Monsters CYA,Frank Lopez,none,39
+491,4,Brasilia (DF),Florianopolis (SC),premium,1189.32,1.66,637.56,CloudFy,12/31/2020,4,Hotel A,Florianopolis (SC),4,313.02,1252.08,12/31/2020,Monsters CYA,Lazaro Jordan,male,65
+491,4,Florianopolis (SC),Brasilia (DF),premium,885.37,1.66,637.56,CloudFy,01/04/2021,4,Hotel A,Florianopolis (SC),4,313.02,1252.08,12/31/2020,Monsters CYA,Lazaro Jordan,male,65
+494,4,Recife (PE),Sao Paulo (SP),economic,513.06,1.26,486.52,CloudFy,01/21/2021,4,Hotel AF,Sao Paulo (SP),2,139.1,278.2,01/21/2021,Monsters CYA,Steven Colon,male,31
+494,4,Sao Paulo (SP),Recife (PE),economic,829.91,1.26,486.52,CloudFy,01/23/2021,4,Hotel AF,Sao Paulo (SP),2,139.1,278.2,01/21/2021,Monsters CYA,Steven Colon,male,31
+498,4,Brasilia (DF),Rio de Janeiro (RJ),firstClass,586.04,0.48,183.37,Rainbow,02/18/2021,4,Hotel CB,Rio de Janeiro (RJ),4,165.99,663.96,02/18/2021,Monsters CYA,Melvin Wineland,male,64
+498,4,Rio de Janeiro (RJ),Brasilia (DF),firstClass,687.25,0.48,183.37,Rainbow,02/22/2021,4,Hotel CB,Rio de Janeiro (RJ),4,165.99,663.96,02/18/2021,Monsters CYA,Melvin Wineland,male,64
+500,4,Recife (PE),Salvador (BH),premium,1242.65,2.05,788.55,CloudFy,03/04/2021,4,Hotel K,Salvador (BH),2,263.41,526.82,03/04/2021,Monsters CYA,Edward Zahner,male,42
+500,4,Salvador (BH),Recife (PE),premium,1016.53,2.05,788.55,CloudFy,03/06/2021,4,Hotel K,Salvador (BH),2,263.41,526.82,03/04/2021,Monsters CYA,Edward Zahner,male,42
+501,4,Recife (PE),Rio de Janeiro (RJ),firstClass,1706.89,2.3,885.57,FlyingDrops,03/11/2021,4,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,03/11/2021,Monsters CYA,Amy Ruff,female,21
+501,4,Rio de Janeiro (RJ),Recife (PE),firstClass,1702.23,2.3,885.57,FlyingDrops,03/12/2021,4,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,03/11/2021,Monsters CYA,Amy Ruff,female,21
+503,4,Aracaju (SE),Florianopolis (SC),firstClass,1515.79,2.1,808.85,CloudFy,03/25/2021,4,Hotel A,Florianopolis (SC),2,313.02,626.04,03/25/2021,Monsters CYA,Mark Smith,male,30
+503,4,Florianopolis (SC),Aracaju (SE),firstClass,1468.03,2.1,808.85,CloudFy,03/27/2021,4,Hotel A,Florianopolis (SC),2,313.02,626.04,03/25/2021,Monsters CYA,Mark Smith,male,30
+505,4,Aracaju (SE),Florianopolis (SC),firstClass,1582.41,2.1,808.85,Rainbow,04/08/2021,4,Hotel A,Florianopolis (SC),2,313.02,626.04,04/08/2021,Monsters CYA,Arthur Acevedo,male,24
+505,4,Florianopolis (SC),Aracaju (SE),firstClass,1582.1,2.1,808.85,Rainbow,04/10/2021,4,Hotel A,Florianopolis (SC),2,313.02,626.04,04/08/2021,Monsters CYA,Arthur Acevedo,male,24
+514,4,Aracaju (SE),Recife (PE),firstClass,1119.47,1.44,555.74,Rainbow,06/10/2021,4,Hotel AU,Recife (PE),3,312.83,938.49,06/10/2021,Monsters CYA,Myesha Taranto,female,41
+514,4,Recife (PE),Aracaju (SE),firstClass,1181.19,1.44,555.74,Rainbow,06/13/2021,4,Hotel AU,Recife (PE),3,312.83,938.49,06/10/2021,Monsters CYA,Myesha Taranto,female,41
+517,4,Recife (PE),Natal (RN),economic,360.22,0.58,222.67,Rainbow,07/01/2021,4,Hotel BD,Natal (RN),4,242.88,971.52,07/01/2021,Monsters CYA,Linda Gordan,none,30
+517,4,Natal (RN),Recife (PE),economic,406.36,0.58,222.67,Rainbow,07/05/2021,4,Hotel BD,Natal (RN),4,242.88,971.52,07/01/2021,Monsters CYA,Linda Gordan,none,30
+529,4,Recife (PE),Sao Paulo (SP),firstClass,980.83,1.26,486.52,Rainbow,09/23/2021,4,Hotel AF,Sao Paulo (SP),3,139.1,417.3,09/23/2021,Monsters CYA,Gary Pietrafesa,male,34
+529,4,Sao Paulo (SP),Recife (PE),firstClass,1573.5,1.26,486.52,Rainbow,09/26/2021,4,Hotel AF,Sao Paulo (SP),3,139.1,417.3,09/23/2021,Monsters CYA,Gary Pietrafesa,male,34
+532,4,Aracaju (SE),Rio de Janeiro (RJ),economic,717.04,1.55,597.61,CloudFy,10/14/2021,4,Hotel CB,Rio de Janeiro (RJ),4,165.99,663.96,10/14/2021,Monsters CYA,Florence Wilson,female,42
+532,4,Rio de Janeiro (RJ),Aracaju (SE),economic,796.42,1.55,597.61,CloudFy,10/18/2021,4,Hotel CB,Rio de Janeiro (RJ),4,165.99,663.96,10/14/2021,Monsters CYA,Florence Wilson,female,42
+537,4,Brasilia (DF),Recife (PE),premium,559.13,0.63,242.21,Rainbow,11/18/2021,4,Hotel AU,Recife (PE),3,312.83,938.49,11/18/2021,Monsters CYA,Robert Villalvazo,none,35
+537,4,Recife (PE),Brasilia (DF),premium,638.63,0.63,242.21,Rainbow,11/21/2021,4,Hotel AU,Recife (PE),3,312.83,938.49,11/18/2021,Monsters CYA,Robert Villalvazo,none,35
+541,4,Recife (PE),Rio de Janeiro (RJ),firstClass,1611.14,2.3,885.57,Rainbow,12/16/2021,4,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,12/16/2021,Monsters CYA,Carolyn Watt,none,52
+541,4,Rio de Janeiro (RJ),Recife (PE),firstClass,1617.81,2.3,885.57,Rainbow,12/19/2021,4,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,12/16/2021,Monsters CYA,Carolyn Watt,none,52
+543,4,Brasilia (DF),Campo Grande (MS),firstClass,1009.71,0.72,277.7,FlyingDrops,12/30/2021,4,Hotel BW,Campo Grande (MS),3,60.39,181.17,12/30/2021,Monsters CYA,Bianca Fitz,female,51
+543,4,Campo Grande (MS),Brasilia (DF),firstClass,847.83,0.72,277.7,FlyingDrops,01/02/2022,4,Hotel BW,Campo Grande (MS),3,60.39,181.17,12/30/2021,Monsters CYA,Bianca Fitz,female,51
+545,4,Recife (PE),Campo Grande (MS),firstClass,1038.95,1.39,535.4,FlyingDrops,01/13/2022,4,Hotel BW,Campo Grande (MS),1,60.39,60.39,01/13/2022,Monsters CYA,Kenneth Jump,male,46
+545,4,Campo Grande (MS),Recife (PE),firstClass,1262.23,1.39,535.4,FlyingDrops,01/14/2022,4,Hotel BW,Campo Grande (MS),1,60.39,60.39,01/13/2022,Monsters CYA,Kenneth Jump,male,46
+548,4,Brasilia (DF),Campo Grande (MS),premium,831.7,0.72,277.7,CloudFy,02/03/2022,4,Hotel BW,Campo Grande (MS),2,60.39,120.78,02/03/2022,Monsters CYA,Frances Vidal,female,29
+548,4,Campo Grande (MS),Brasilia (DF),premium,661.32,0.72,277.7,CloudFy,02/05/2022,4,Hotel BW,Campo Grande (MS),2,60.39,120.78,02/03/2022,Monsters CYA,Frances Vidal,female,29
+555,4,Brasilia (DF),Florianopolis (SC),premium,1189.32,1.66,637.56,CloudFy,03/24/2022,4,Hotel A,Florianopolis (SC),1,313.02,313.02,03/24/2022,Monsters CYA,Yolanda Edwards,female,34
+555,4,Florianopolis (SC),Brasilia (DF),premium,885.37,1.66,637.56,CloudFy,03/25/2022,4,Hotel A,Florianopolis (SC),1,313.02,313.02,03/24/2022,Monsters CYA,Yolanda Edwards,female,34
+556,4,Recife (PE),Salvador (BH),economic,842.11,2.05,788.55,CloudFy,03/31/2022,4,Hotel K,Salvador (BH),3,263.41,790.23,03/31/2022,Monsters CYA,Jonathan Dickens,male,48
+556,4,Salvador (BH),Recife (PE),economic,767.27,2.05,788.55,CloudFy,04/03/2022,4,Hotel K,Salvador (BH),3,263.41,790.23,03/31/2022,Monsters CYA,Jonathan Dickens,male,48
+557,4,Recife (PE),Salvador (BH),premium,1249.83,2.05,788.55,Rainbow,04/07/2022,4,Hotel K,Salvador (BH),1,263.41,263.41,04/07/2022,Monsters CYA,Phillip King,none,39
+557,4,Salvador (BH),Recife (PE),premium,1103.23,2.05,788.55,Rainbow,04/08/2022,4,Hotel K,Salvador (BH),1,263.41,263.41,04/07/2022,Monsters CYA,Phillip King,none,39
+559,4,Recife (PE),Salvador (BH),economic,842.11,2.05,788.55,CloudFy,04/21/2022,4,Hotel K,Salvador (BH),2,263.41,526.82,04/21/2022,Monsters CYA,Betty Ollie,female,64
+559,4,Salvador (BH),Recife (PE),economic,767.27,2.05,788.55,CloudFy,04/23/2022,4,Hotel K,Salvador (BH),2,263.41,526.82,04/21/2022,Monsters CYA,Betty Ollie,female,64
+562,4,Recife (PE),Natal (RN),economic,360.22,0.58,222.67,Rainbow,05/12/2022,4,Hotel BD,Natal (RN),2,242.88,485.76,05/12/2022,Monsters CYA,Clifford Forrest,none,54
+562,4,Natal (RN),Recife (PE),economic,406.36,0.58,222.67,Rainbow,05/14/2022,4,Hotel BD,Natal (RN),2,242.88,485.76,05/12/2022,Monsters CYA,Clifford Forrest,none,54
+564,4,Recife (PE),Rio de Janeiro (RJ),firstClass,1611.14,2.3,885.57,Rainbow,05/26/2022,4,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,05/26/2022,Monsters CYA,Eugene Tiemann,none,41
+564,4,Rio de Janeiro (RJ),Recife (PE),firstClass,1617.81,2.3,885.57,Rainbow,05/27/2022,4,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,05/26/2022,Monsters CYA,Eugene Tiemann,none,41
+565,4,Recife (PE),Rio de Janeiro (RJ),firstClass,1611.14,2.3,885.57,Rainbow,06/02/2022,4,Hotel CB,Rio de Janeiro (RJ),2,165.99,331.98,06/02/2022,Monsters CYA,Emma Ashbrook,none,53
+565,4,Rio de Janeiro (RJ),Recife (PE),firstClass,1617.81,2.3,885.57,Rainbow,06/04/2022,4,Hotel CB,Rio de Janeiro (RJ),2,165.99,331.98,06/02/2022,Monsters CYA,Emma Ashbrook,none,53
+574,4,Recife (PE),Brasilia (DF),premium,573.61,0.63,242.21,CloudFy,08/04/2022,4,Hotel BP,Brasilia (DF),4,247.62,990.48,08/04/2022,Monsters CYA,Della Gomez,none,52
+574,4,Brasilia (DF),Recife (PE),premium,568.38,0.63,242.21,CloudFy,08/08/2022,4,Hotel BP,Brasilia (DF),4,247.62,990.48,08/04/2022,Monsters CYA,Della Gomez,none,52
+578,4,Recife (PE),Aracaju (SE),firstClass,1181.19,1.44,555.74,Rainbow,09/01/2022,4,Hotel Z,Aracaju (SE),3,208.04,624.12,09/01/2022,Monsters CYA,Naomi Bartz,female,22
+578,4,Aracaju (SE),Recife (PE),firstClass,1119.47,1.44,555.74,Rainbow,09/04/2022,4,Hotel Z,Aracaju (SE),3,208.04,624.12,09/01/2022,Monsters CYA,Naomi Bartz,female,22
+581,4,Brasilia (DF),Rio de Janeiro (RJ),economic,371.04,0.48,183.37,Rainbow,09/22/2022,4,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,09/22/2022,Monsters CYA,Jennie Klein,female,35
+581,4,Rio de Janeiro (RJ),Brasilia (DF),economic,364.34,0.48,183.37,Rainbow,09/25/2022,4,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,09/22/2022,Monsters CYA,Jennie Klein,female,35
+582,4,Aracaju (SE),Sao Paulo (SP),premium,588.14,1.02,392.76,Rainbow,09/29/2022,4,Hotel AF,Sao Paulo (SP),3,139.1,417.3,09/29/2022,Monsters CYA,Irene Land,female,62
+582,4,Sao Paulo (SP),Aracaju (SE),premium,962.54,1.02,392.76,Rainbow,10/02/2022,4,Hotel AF,Sao Paulo (SP),3,139.1,417.3,09/29/2022,Monsters CYA,Irene Land,female,62
+586,4,Recife (PE),Salvador (BH),premium,1242.65,2.05,788.55,CloudFy,10/27/2022,4,Hotel K,Salvador (BH),2,263.41,526.82,10/27/2022,Monsters CYA,Gregory Thiboutot,male,39
+586,4,Salvador (BH),Recife (PE),premium,1016.53,2.05,788.55,CloudFy,10/29/2022,4,Hotel K,Salvador (BH),2,263.41,526.82,10/27/2022,Monsters CYA,Gregory Thiboutot,male,39
+587,4,Aracaju (SE),Salvador (BH),firstClass,1723.71,2.16,830.86,Rainbow,11/03/2022,4,Hotel K,Salvador (BH),1,263.41,263.41,11/03/2022,Monsters CYA,David Edelson,male,34
+587,4,Salvador (BH),Aracaju (SE),firstClass,1520.02,2.16,830.86,Rainbow,11/04/2022,4,Hotel K,Salvador (BH),1,263.41,263.41,11/03/2022,Monsters CYA,David Edelson,male,34
+588,4,Aracaju (SE),Natal (RN),firstClass,577.71,0.46,176.33,FlyingDrops,11/10/2022,4,Hotel BD,Natal (RN),2,242.88,485.76,11/10/2022,Monsters CYA,Mary Parnell,none,53
+588,4,Natal (RN),Aracaju (SE),firstClass,611.59,0.46,176.33,FlyingDrops,11/12/2022,4,Hotel BD,Natal (RN),2,242.88,485.76,11/10/2022,Monsters CYA,Mary Parnell,none,53
+590,4,Brasilia (DF),Recife (PE),economic,421.2,0.63,242.21,Rainbow,11/24/2022,4,Hotel AU,Recife (PE),2,312.83,625.66,11/24/2022,Monsters CYA,Jennifer Cargo,female,22
+590,4,Recife (PE),Brasilia (DF),economic,439.38,0.63,242.21,Rainbow,11/26/2022,4,Hotel AU,Recife (PE),2,312.83,625.66,11/24/2022,Monsters CYA,Jennifer Cargo,female,22
+591,4,Brasilia (DF),Recife (PE),firstClass,772.21,0.63,242.21,Rainbow,12/01/2022,4,Hotel AU,Recife (PE),4,312.83,1251.32,12/01/2022,Monsters CYA,Veronica Salgado,female,65
+591,4,Recife (PE),Brasilia (DF),firstClass,721.93,0.63,242.21,Rainbow,12/05/2022,4,Hotel AU,Recife (PE),4,312.83,1251.32,12/01/2022,Monsters CYA,Veronica Salgado,female,65
+596,4,Recife (PE),Brasilia (DF),premium,638.63,0.63,242.21,Rainbow,01/05/2023,4,Hotel BP,Brasilia (DF),1,247.62,247.62,01/05/2023,Monsters CYA,Dolores Huffman,female,55
+596,4,Brasilia (DF),Recife (PE),premium,559.13,0.63,242.21,Rainbow,01/06/2023,4,Hotel BP,Brasilia (DF),1,247.62,247.62,01/05/2023,Monsters CYA,Dolores Huffman,female,55
+598,4,Recife (PE),Natal (RN),economic,360.22,0.58,222.67,Rainbow,01/19/2023,4,Hotel BD,Natal (RN),4,242.88,971.52,01/19/2023,Monsters CYA,Amy Baumann,female,57
+598,4,Natal (RN),Recife (PE),economic,406.36,0.58,222.67,Rainbow,01/23/2023,4,Hotel BD,Natal (RN),4,242.88,971.52,01/19/2023,Monsters CYA,Amy Baumann,female,57
+604,4,Aracaju (SE),Sao Paulo (SP),firstClass,756.3,1.02,392.76,FlyingDrops,03/02/2023,4,Hotel AF,Sao Paulo (SP),3,139.1,417.3,03/02/2023,Monsters CYA,Tiffany Thomas,none,53
+604,4,Sao Paulo (SP),Aracaju (SE),firstClass,1269.73,1.02,392.76,FlyingDrops,03/05/2023,4,Hotel AF,Sao Paulo (SP),3,139.1,417.3,03/02/2023,Monsters CYA,Tiffany Thomas,none,53
+605,4,Recife (PE),Florianopolis (SC),economic,761.2,1.76,676.53,CloudFy,03/09/2023,4,Hotel A,Florianopolis (SC),4,313.02,1252.08,03/09/2023,Monsters CYA,Robert Santos,male,36
+605,4,Florianopolis (SC),Recife (PE),economic,674.52,1.76,676.53,CloudFy,03/13/2023,4,Hotel A,Florianopolis (SC),4,313.02,1252.08,03/09/2023,Monsters CYA,Robert Santos,male,36
+609,4,Brasilia (DF),Campo Grande (MS),firstClass,1096.58,0.72,277.7,CloudFy,04/06/2023,4,Hotel BW,Campo Grande (MS),2,60.39,120.78,04/06/2023,Monsters CYA,Kerri Jones,female,57
+609,4,Campo Grande (MS),Brasilia (DF),firstClass,949.99,0.72,277.7,CloudFy,04/08/2023,4,Hotel BW,Campo Grande (MS),2,60.39,120.78,04/06/2023,Monsters CYA,Kerri Jones,female,57
+619,4,Brasilia (DF),Rio de Janeiro (RJ),premium,440.69,0.48,183.37,Rainbow,06/15/2023,4,Hotel CB,Rio de Janeiro (RJ),4,165.99,663.96,06/15/2023,Monsters CYA,Clifton Parsons,male,45
+619,4,Rio de Janeiro (RJ),Brasilia (DF),premium,435.67,0.48,183.37,Rainbow,06/19/2023,4,Hotel CB,Rio de Janeiro (RJ),4,165.99,663.96,06/15/2023,Monsters CYA,Clifton Parsons,male,45
+621,4,Recife (PE),Brasilia (DF),premium,573.61,0.63,242.21,CloudFy,06/29/2023,4,Hotel BP,Brasilia (DF),4,247.62,990.48,06/29/2023,Monsters CYA,Kenneth Vue,male,55
+621,4,Brasilia (DF),Recife (PE),premium,568.38,0.63,242.21,CloudFy,07/03/2023,4,Hotel BP,Brasilia (DF),4,247.62,990.48,06/29/2023,Monsters CYA,Kenneth Vue,male,55
+623,4,Recife (PE),Natal (RN),premium,474.6,0.58,222.67,CloudFy,07/13/2023,4,Hotel BD,Natal (RN),4,242.88,971.52,07/13/2023,Monsters CYA,Sumiko Boone,none,61
+623,4,Natal (RN),Recife (PE),premium,563.23,0.58,222.67,CloudFy,07/17/2023,4,Hotel BD,Natal (RN),4,242.88,971.52,07/13/2023,Monsters CYA,Sumiko Boone,none,61
+624,5,Brasilia (DF),Salvador (BH),economic,921.08,1.76,676.56,Rainbow,09/26/2019,5,Hotel K,Salvador (BH),2,263.41,526.82,09/26/2019,Monsters CYA,Tracy Brown,female,44
+624,5,Salvador (BH),Brasilia (DF),economic,609.83,1.76,676.56,Rainbow,09/28/2019,5,Hotel K,Salvador (BH),2,263.41,526.82,09/26/2019,Monsters CYA,Tracy Brown,female,44
+638,5,Recife (PE),Salvador (BH),economic,861.68,2.05,788.55,Rainbow,01/02/2020,5,Hotel K,Salvador (BH),1,263.41,263.41,01/02/2020,Monsters CYA,Margo Sullivan,none,63
+638,5,Salvador (BH),Recife (PE),economic,751.37,2.05,788.55,Rainbow,01/03/2020,5,Hotel K,Salvador (BH),1,263.41,263.41,01/02/2020,Monsters CYA,Margo Sullivan,none,63
+643,5,Brasilia (DF),Sao Paulo (SP),firstClass,992.17,0.67,257.81,Rainbow,02/06/2020,5,Hotel AF,Sao Paulo (SP),3,139.1,417.3,02/06/2020,Monsters CYA,David Lucas,male,50
+643,5,Sao Paulo (SP),Brasilia (DF),firstClass,824.31,0.67,257.81,Rainbow,02/09/2020,5,Hotel AF,Sao Paulo (SP),3,139.1,417.3,02/06/2020,Monsters CYA,David Lucas,male,50
+644,5,Recife (PE),Salvador (BH),economic,861.68,2.05,788.55,Rainbow,02/13/2020,5,Hotel K,Salvador (BH),1,263.41,263.41,02/13/2020,Monsters CYA,Rita Field,female,49
+644,5,Salvador (BH),Recife (PE),economic,751.37,2.05,788.55,Rainbow,02/14/2020,5,Hotel K,Salvador (BH),1,263.41,263.41,02/13/2020,Monsters CYA,Rita Field,female,49
+646,5,Recife (PE),Salvador (BH),firstClass,1484.94,2.05,788.55,CloudFy,02/27/2020,5,Hotel K,Salvador (BH),3,263.41,790.23,02/27/2020,Monsters CYA,Andra Parker,none,33
+646,5,Salvador (BH),Recife (PE),firstClass,1440.02,2.05,788.55,CloudFy,03/01/2020,5,Hotel K,Salvador (BH),3,263.41,790.23,02/27/2020,Monsters CYA,Andra Parker,none,33
+648,5,Brasilia (DF),Rio de Janeiro (RJ),premium,457.95,0.48,183.37,CloudFy,03/12/2020,5,Hotel CB,Rio de Janeiro (RJ),4,165.99,663.96,03/12/2020,Wonka Company,Ethel Dalton,female,31
+648,5,Rio de Janeiro (RJ),Brasilia (DF),premium,503.26,0.48,183.37,CloudFy,03/16/2020,5,Hotel CB,Rio de Janeiro (RJ),4,165.99,663.96,03/12/2020,Wonka Company,Ethel Dalton,female,31
+658,5,Recife (PE),Natal (RN),firstClass,628.96,0.58,222.67,Rainbow,05/21/2020,5,Hotel BD,Natal (RN),1,242.88,242.88,05/21/2020,Wonka Company,Bryce Gearing,male,22
+658,5,Natal (RN),Recife (PE),firstClass,806.91,0.58,222.67,Rainbow,05/22/2020,5,Hotel BD,Natal (RN),1,242.88,242.88,05/21/2020,Wonka Company,Bryce Gearing,male,22
+668,5,Aracaju (SE),Campo Grande (MS),firstClass,1376.09,1.69,650.1,FlyingDrops,07/30/2020,5,Hotel BW,Campo Grande (MS),1,60.39,60.39,07/30/2020,Wonka Company,Carmen Politi,none,48
+668,5,Campo Grande (MS),Aracaju (SE),firstClass,1473.41,1.69,650.1,FlyingDrops,07/31/2020,5,Hotel BW,Campo Grande (MS),1,60.39,60.39,07/30/2020,Wonka Company,Carmen Politi,none,48
+670,5,Brasilia (DF),Salvador (BH),firstClass,1724.49,1.76,676.56,FlyingDrops,08/13/2020,5,Hotel K,Salvador (BH),3,263.41,790.23,08/13/2020,Wonka Company,Patrick Obrien,none,32
+670,5,Salvador (BH),Brasilia (DF),firstClass,1020.08,1.76,676.56,FlyingDrops,08/16/2020,5,Hotel K,Salvador (BH),3,263.41,790.23,08/13/2020,Wonka Company,Patrick Obrien,none,32
+676,5,Brasilia (DF),Florianopolis (SC),firstClass,1569.65,1.66,637.56,FlyingDrops,09/24/2020,5,Hotel A,Florianopolis (SC),4,313.02,1252.08,09/24/2020,Wonka Company,Mary Burkett,female,22
+676,5,Florianopolis (SC),Brasilia (DF),firstClass,1097.17,1.66,637.56,FlyingDrops,09/28/2020,5,Hotel A,Florianopolis (SC),4,313.02,1252.08,09/24/2020,Wonka Company,Mary Burkett,female,22
+680,5,Recife (PE),Sao Paulo (SP),premium,657.87,1.26,486.52,CloudFy,10/22/2020,5,Hotel AF,Sao Paulo (SP),2,139.1,278.2,10/22/2020,Wonka Company,Bret Dowell,none,52
+680,5,Sao Paulo (SP),Recife (PE),premium,1195.26,1.26,486.52,CloudFy,10/24/2020,5,Hotel AF,Sao Paulo (SP),2,139.1,278.2,10/22/2020,Wonka Company,Bret Dowell,none,52
+683,5,Brasilia (DF),Sao Paulo (SP),firstClass,904.0,0.67,257.81,FlyingDrops,11/12/2020,5,Hotel AF,Sao Paulo (SP),1,139.1,139.1,11/12/2020,Wonka Company,Loma Walker,female,25
+683,5,Sao Paulo (SP),Brasilia (DF),firstClass,727.31,0.67,257.81,FlyingDrops,11/13/2020,5,Hotel AF,Sao Paulo (SP),1,139.1,139.1,11/12/2020,Wonka Company,Loma Walker,female,25
+687,5,Recife (PE),Aracaju (SE),firstClass,1300.81,1.44,555.74,FlyingDrops,12/10/2020,5,Hotel Z,Aracaju (SE),1,208.04,208.04,12/10/2020,Wonka Company,Lora Perez,female,23
+687,5,Aracaju (SE),Recife (PE),firstClass,1088.87,1.44,555.74,FlyingDrops,12/11/2020,5,Hotel Z,Aracaju (SE),1,208.04,208.04,12/10/2020,Wonka Company,Lora Perez,female,23
+688,6,Aracaju (SE),Natal (RN),firstClass,549.96,0.46,176.33,Rainbow,09/26/2019,6,Hotel BD,Natal (RN),3,242.88,728.64,09/26/2019,Wonka Company,John Orr,male,27
+688,6,Natal (RN),Aracaju (SE),firstClass,611.4,0.46,176.33,Rainbow,09/29/2019,6,Hotel BD,Natal (RN),3,242.88,728.64,09/26/2019,Wonka Company,John Orr,male,27
+690,6,Brasilia (DF),Sao Paulo (SP),firstClass,893.65,0.67,257.81,CloudFy,10/10/2019,6,Hotel AF,Sao Paulo (SP),3,139.1,417.3,10/10/2019,Wonka Company,William Glancy,male,64
+690,6,Sao Paulo (SP),Brasilia (DF),firstClass,742.94,0.67,257.81,CloudFy,10/13/2019,6,Hotel AF,Sao Paulo (SP),3,139.1,417.3,10/10/2019,Wonka Company,William Glancy,male,64
+695,6,Brasilia (DF),Florianopolis (SC),firstClass,1569.65,1.66,637.56,FlyingDrops,11/14/2019,6,Hotel A,Florianopolis (SC),2,313.02,626.04,11/14/2019,Wonka Company,Clement Johnson,male,59
+695,6,Florianopolis (SC),Brasilia (DF),firstClass,1097.17,1.66,637.56,FlyingDrops,11/16/2019,6,Hotel A,Florianopolis (SC),2,313.02,626.04,11/14/2019,Wonka Company,Clement Johnson,male,59
+696,6,Brasilia (DF),Rio de Janeiro (RJ),firstClass,649.64,0.48,183.37,CloudFy,11/21/2019,6,Hotel CB,Rio de Janeiro (RJ),2,165.99,331.98,11/21/2019,Wonka Company,Michael Nutt,male,21
+696,6,Rio de Janeiro (RJ),Brasilia (DF),firstClass,688.06,0.48,183.37,CloudFy,11/23/2019,6,Hotel CB,Rio de Janeiro (RJ),2,165.99,331.98,11/21/2019,Wonka Company,Michael Nutt,male,21
+698,6,Brasilia (DF),Recife (PE),firstClass,772.21,0.63,242.21,Rainbow,12/05/2019,6,Hotel AU,Recife (PE),1,312.83,312.83,12/05/2019,Wonka Company,Susan Anderson,female,51
+698,6,Recife (PE),Brasilia (DF),firstClass,721.93,0.63,242.21,Rainbow,12/06/2019,6,Hotel AU,Recife (PE),1,312.83,312.83,12/05/2019,Wonka Company,Susan Anderson,female,51
+699,6,Brasilia (DF),Campo Grande (MS),firstClass,1096.58,0.72,277.7,CloudFy,12/12/2019,6,Hotel BW,Campo Grande (MS),4,60.39,241.56,12/12/2019,Wonka Company,Kevin Lamb,male,43
+699,6,Campo Grande (MS),Brasilia (DF),firstClass,949.99,0.72,277.7,CloudFy,12/16/2019,6,Hotel BW,Campo Grande (MS),4,60.39,241.56,12/12/2019,Wonka Company,Kevin Lamb,male,43
+701,6,Recife (PE),Brasilia (DF),firstClass,721.93,0.63,242.21,Rainbow,12/26/2019,6,Hotel BP,Brasilia (DF),4,247.62,990.48,12/26/2019,Wonka Company,Evelyn Murawski,female,41
+701,6,Brasilia (DF),Recife (PE),firstClass,772.21,0.63,242.21,Rainbow,12/30/2019,6,Hotel BP,Brasilia (DF),4,247.62,990.48,12/26/2019,Wonka Company,Evelyn Murawski,female,41
+707,6,Aracaju (SE),Florianopolis (SC),premium,1132.81,2.1,808.85,Rainbow,02/06/2020,6,Hotel A,Florianopolis (SC),2,313.02,626.04,02/06/2020,Wonka Company,Arthur Hendrix,male,37
+707,6,Florianopolis (SC),Aracaju (SE),premium,1248.7,2.1,808.85,Rainbow,02/08/2020,6,Hotel A,Florianopolis (SC),2,313.02,626.04,02/06/2020,Wonka Company,Arthur Hendrix,male,37
+711,6,Recife (PE),Sao Paulo (SP),premium,657.87,1.26,486.52,CloudFy,03/05/2020,6,Hotel AF,Sao Paulo (SP),1,139.1,139.1,03/05/2020,Wonka Company,Esther Odonnell,female,32
+711,6,Sao Paulo (SP),Recife (PE),premium,1195.26,1.26,486.52,CloudFy,03/06/2020,6,Hotel AF,Sao Paulo (SP),1,139.1,139.1,03/05/2020,Wonka Company,Esther Odonnell,female,32
+712,6,Aracaju (SE),Florianopolis (SC),economic,852.18,2.1,808.85,Rainbow,03/12/2020,6,Hotel A,Florianopolis (SC),4,313.02,1252.08,03/12/2020,Wonka Company,Kristin Davis,female,45
+712,6,Florianopolis (SC),Aracaju (SE),economic,819.41,2.1,808.85,Rainbow,03/16/2020,6,Hotel A,Florianopolis (SC),4,313.02,1252.08,03/12/2020,Wonka Company,Kristin Davis,female,45
+718,6,Brasilia (DF),Salvador (BH),economic,921.08,1.76,676.56,Rainbow,04/23/2020,6,Hotel K,Salvador (BH),4,263.41,1053.64,04/23/2020,Wonka Company,Brooke Gilbert,female,57
+718,6,Salvador (BH),Brasilia (DF),economic,609.83,1.76,676.56,Rainbow,04/27/2020,6,Hotel K,Salvador (BH),4,263.41,1053.64,04/23/2020,Wonka Company,Brooke Gilbert,female,57
+719,6,Aracaju (SE),Sao Paulo (SP),firstClass,730.43,1.02,392.76,CloudFy,04/30/2020,6,Hotel AF,Sao Paulo (SP),1,139.1,139.1,04/30/2020,Wonka Company,Cory Ruiz,male,64
+719,6,Sao Paulo (SP),Aracaju (SE),firstClass,1186.15,1.02,392.76,CloudFy,05/01/2020,6,Hotel AF,Sao Paulo (SP),1,139.1,139.1,04/30/2020,Wonka Company,Cory Ruiz,male,64
+723,6,Aracaju (SE),Brasilia (DF),economic,472.72,1.11,425.98,CloudFy,05/28/2020,6,Hotel BP,Brasilia (DF),2,247.62,495.24,05/28/2020,Wonka Company,Charles Morgan,male,34
+723,6,Brasilia (DF),Aracaju (SE),economic,654.88,1.11,425.98,CloudFy,05/30/2020,6,Hotel BP,Brasilia (DF),2,247.62,495.24,05/28/2020,Wonka Company,Charles Morgan,male,34
+739,6,Recife (PE),Sao Paulo (SP),premium,657.87,1.26,486.52,CloudFy,09/17/2020,6,Hotel AF,Sao Paulo (SP),3,139.1,417.3,09/17/2020,Wonka Company,Adrianne Pierre,female,53
+739,6,Sao Paulo (SP),Recife (PE),premium,1195.26,1.26,486.52,CloudFy,09/20/2020,6,Hotel AF,Sao Paulo (SP),3,139.1,417.3,09/17/2020,Wonka Company,Adrianne Pierre,female,53
+745,6,Brasilia (DF),Salvador (BH),premium,1346.6,1.76,676.56,CloudFy,10/29/2020,6,Hotel K,Salvador (BH),1,263.41,263.41,10/29/2020,Wonka Company,Elizabeth Hewitt,female,53
+745,6,Salvador (BH),Brasilia (DF),premium,836.89,1.76,676.56,CloudFy,10/30/2020,6,Hotel K,Salvador (BH),1,263.41,263.41,10/29/2020,Wonka Company,Elizabeth Hewitt,female,53
+746,6,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1190.94,1.55,597.61,FlyingDrops,11/05/2020,6,Hotel CB,Rio de Janeiro (RJ),4,165.99,663.96,11/05/2020,Wonka Company,Maurice Miles,none,34
+746,6,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1381.55,1.55,597.61,FlyingDrops,11/09/2020,6,Hotel CB,Rio de Janeiro (RJ),4,165.99,663.96,11/05/2020,Wonka Company,Maurice Miles,none,34
+747,6,Aracaju (SE),Natal (RN),firstClass,549.96,0.46,176.33,Rainbow,11/12/2020,6,Hotel BD,Natal (RN),4,242.88,971.52,11/12/2020,Wonka Company,Ruth Bennett,female,51
+747,6,Natal (RN),Aracaju (SE),firstClass,611.4,0.46,176.33,Rainbow,11/16/2020,6,Hotel BD,Natal (RN),4,242.88,971.52,11/12/2020,Wonka Company,Ruth Bennett,female,51
+749,6,Aracaju (SE),Florianopolis (SC),firstClass,1582.41,2.1,808.85,Rainbow,11/26/2020,6,Hotel A,Florianopolis (SC),2,313.02,626.04,11/26/2020,Wonka Company,Ernest Reyes,male,55
+749,6,Florianopolis (SC),Aracaju (SE),firstClass,1582.1,2.1,808.85,Rainbow,11/28/2020,6,Hotel A,Florianopolis (SC),2,313.02,626.04,11/26/2020,Wonka Company,Ernest Reyes,male,55
+753,6,Recife (PE),Brasilia (DF),firstClass,697.22,0.63,242.21,FlyingDrops,12/24/2020,6,Hotel BP,Brasilia (DF),2,247.62,495.24,12/24/2020,Wonka Company,Eric Capps,male,51
+753,6,Brasilia (DF),Recife (PE),firstClass,691.39,0.63,242.21,FlyingDrops,12/26/2020,6,Hotel BP,Brasilia (DF),2,247.62,495.24,12/24/2020,Wonka Company,Eric Capps,male,51
+754,6,Aracaju (SE),Natal (RN),firstClass,577.71,0.46,176.33,FlyingDrops,12/31/2020,6,Hotel BD,Natal (RN),2,242.88,485.76,12/31/2020,Wonka Company,Barry Smithers,male,49
+754,6,Natal (RN),Aracaju (SE),firstClass,611.59,0.46,176.33,FlyingDrops,01/02/2021,6,Hotel BD,Natal (RN),2,242.88,485.76,12/31/2020,Wonka Company,Barry Smithers,male,49
+755,6,Aracaju (SE),Salvador (BH),economic,943.36,2.16,830.86,Rainbow,01/07/2021,6,Hotel K,Salvador (BH),1,263.41,263.41,01/07/2021,Wonka Company,Kelly Lafave,none,58
+755,6,Salvador (BH),Aracaju (SE),economic,826.02,2.16,830.86,Rainbow,01/08/2021,6,Hotel K,Salvador (BH),1,263.41,263.41,01/07/2021,Wonka Company,Kelly Lafave,none,58
+762,6,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1190.94,1.55,597.61,FlyingDrops,02/25/2021,6,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,02/25/2021,Wonka Company,Viola Munoz,female,35
+762,6,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1381.55,1.55,597.61,FlyingDrops,02/28/2021,6,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,02/25/2021,Wonka Company,Viola Munoz,female,35
+767,6,Brasilia (DF),Sao Paulo (SP),premium,750.0,0.67,257.81,Rainbow,04/01/2021,6,Hotel AF,Sao Paulo (SP),3,139.1,417.3,04/01/2021,Wonka Company,Keely Rice,female,25
+767,6,Sao Paulo (SP),Brasilia (DF),premium,586.06,0.67,257.81,Rainbow,04/04/2021,6,Hotel AF,Sao Paulo (SP),3,139.1,417.3,04/01/2021,Wonka Company,Keely Rice,female,25
+778,7,Aracaju (SE),Sao Paulo (SP),premium,630.34,1.02,392.76,CloudFy,11/21/2019,7,Hotel AF,Sao Paulo (SP),3,139.1,417.3,11/21/2019,Wonka Company,Angela Davis,none,42
+778,7,Sao Paulo (SP),Aracaju (SE),premium,906.59,1.02,392.76,CloudFy,11/24/2019,7,Hotel AF,Sao Paulo (SP),3,139.1,417.3,11/21/2019,Wonka Company,Angela Davis,none,42
+787,7,Recife (PE),Campo Grande (MS),firstClass,1110.76,1.39,535.4,CloudFy,01/23/2020,7,Hotel BW,Campo Grande (MS),1,60.39,60.39,01/23/2020,Wonka Company,Jessie Tu,female,43
+787,7,Campo Grande (MS),Recife (PE),firstClass,1244.73,1.39,535.4,CloudFy,01/24/2020,7,Hotel BW,Campo Grande (MS),1,60.39,60.39,01/23/2020,Wonka Company,Jessie Tu,female,43
+788,7,Recife (PE),Campo Grande (MS),firstClass,1038.95,1.39,535.4,FlyingDrops,01/30/2020,7,Hotel BW,Campo Grande (MS),2,60.39,120.78,01/30/2020,Wonka Company,David Young,none,47
+788,7,Campo Grande (MS),Recife (PE),firstClass,1262.23,1.39,535.4,FlyingDrops,02/01/2020,7,Hotel BW,Campo Grande (MS),2,60.39,120.78,01/30/2020,Wonka Company,David Young,none,47
+793,7,Brasilia (DF),Rio de Janeiro (RJ),firstClass,586.04,0.48,183.37,Rainbow,03/05/2020,7,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,03/05/2020,Wonka Company,Regina Garza,female,29
+793,7,Rio de Janeiro (RJ),Brasilia (DF),firstClass,687.25,0.48,183.37,Rainbow,03/08/2020,7,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,03/05/2020,Wonka Company,Regina Garza,female,29
+795,7,Brasilia (DF),Campo Grande (MS),economic,583.6,0.72,277.7,CloudFy,03/19/2020,7,Hotel BW,Campo Grande (MS),2,60.39,120.78,03/19/2020,Wonka Company,Eric Ison,male,52
+795,7,Campo Grande (MS),Brasilia (DF),economic,506.56,0.72,277.7,CloudFy,03/21/2020,7,Hotel BW,Campo Grande (MS),2,60.39,120.78,03/19/2020,Wonka Company,Eric Ison,male,52
+803,7,Recife (PE),Campo Grande (MS),premium,793.15,1.39,535.4,CloudFy,05/14/2020,7,Hotel BW,Campo Grande (MS),4,60.39,241.56,05/14/2020,Wonka Company,Charlotte Foster,female,40
+803,7,Campo Grande (MS),Recife (PE),premium,959.91,1.39,535.4,CloudFy,05/18/2020,7,Hotel BW,Campo Grande (MS),4,60.39,241.56,05/14/2020,Wonka Company,Charlotte Foster,female,40
+805,7,Brasilia (DF),Aracaju (SE),premium,965.62,1.11,425.98,Rainbow,05/28/2020,7,Hotel Z,Aracaju (SE),2,208.04,416.08,05/28/2020,Wonka Company,Chadwick Goodwin,none,28
+805,7,Aracaju (SE),Brasilia (DF),premium,706.36,1.11,425.98,Rainbow,05/30/2020,7,Hotel Z,Aracaju (SE),2,208.04,416.08,05/28/2020,Wonka Company,Chadwick Goodwin,none,28
+806,7,Aracaju (SE),Recife (PE),economic,604.14,1.44,555.74,CloudFy,06/04/2020,7,Hotel AU,Recife (PE),3,312.83,938.49,06/04/2020,Wonka Company,Amy Coppage,female,52
+806,7,Recife (PE),Aracaju (SE),economic,684.88,1.44,555.74,CloudFy,06/07/2020,7,Hotel AU,Recife (PE),3,312.83,938.49,06/04/2020,Wonka Company,Amy Coppage,female,52
+808,7,Brasilia (DF),Natal (RN),firstClass,1313.76,1.43,550.69,CloudFy,06/18/2020,7,Hotel BD,Natal (RN),3,242.88,728.64,06/18/2020,Wonka Company,Judy Williams,female,27
+808,7,Natal (RN),Brasilia (DF),firstClass,1300.53,1.43,550.69,CloudFy,06/21/2020,7,Hotel BD,Natal (RN),3,242.88,728.64,06/18/2020,Wonka Company,Judy Williams,female,27
+809,7,Aracaju (SE),Brasilia (DF),economic,548.62,1.11,425.98,Rainbow,06/25/2020,7,Hotel BP,Brasilia (DF),4,247.62,990.48,06/25/2020,Wonka Company,Davina Tyler,female,22
+809,7,Brasilia (DF),Aracaju (SE),economic,721.2,1.11,425.98,Rainbow,06/29/2020,7,Hotel BP,Brasilia (DF),4,247.62,990.48,06/25/2020,Wonka Company,Davina Tyler,female,22
+812,7,Recife (PE),Natal (RN),economic,301.51,0.58,222.67,CloudFy,07/16/2020,7,Hotel BD,Natal (RN),2,242.88,485.76,07/16/2020,Wonka Company,Allan Mclaughlin,male,46
+812,7,Natal (RN),Recife (PE),economic,429.77,0.58,222.67,CloudFy,07/18/2020,7,Hotel BD,Natal (RN),2,242.88,485.76,07/16/2020,Wonka Company,Allan Mclaughlin,male,46
+815,7,Brasilia (DF),Recife (PE),premium,559.13,0.63,242.21,Rainbow,08/06/2020,7,Hotel AU,Recife (PE),3,312.83,938.49,08/06/2020,Wonka Company,Monica Mcintyre,female,45
+815,7,Recife (PE),Brasilia (DF),premium,638.63,0.63,242.21,Rainbow,08/09/2020,7,Hotel AU,Recife (PE),3,312.83,938.49,08/06/2020,Wonka Company,Monica Mcintyre,female,45
+817,7,Aracaju (SE),Natal (RN),firstClass,577.71,0.46,176.33,FlyingDrops,08/20/2020,7,Hotel BD,Natal (RN),2,242.88,485.76,08/20/2020,Wonka Company,Charlotte Mcneal,female,44
+817,7,Natal (RN),Aracaju (SE),firstClass,611.59,0.46,176.33,FlyingDrops,08/22/2020,7,Hotel BD,Natal (RN),2,242.88,485.76,08/20/2020,Wonka Company,Charlotte Mcneal,female,44
+819,7,Brasilia (DF),Campo Grande (MS),premium,831.7,0.72,277.7,CloudFy,09/03/2020,7,Hotel BW,Campo Grande (MS),2,60.39,120.78,09/03/2020,Wonka Company,Linda Cunningham,female,55
+819,7,Campo Grande (MS),Brasilia (DF),premium,661.32,0.72,277.7,CloudFy,09/05/2020,7,Hotel BW,Campo Grande (MS),2,60.39,120.78,09/03/2020,Wonka Company,Linda Cunningham,female,55
+823,8,Brasilia (DF),Salvador (BH),premium,1268.97,1.76,676.56,Rainbow,10/03/2019,8,Hotel K,Salvador (BH),4,263.41,1053.64,10/03/2019,Wonka Company,Murray Chang,none,33
+823,8,Salvador (BH),Brasilia (DF),premium,882.86,1.76,676.56,Rainbow,10/07/2019,8,Hotel K,Salvador (BH),4,263.41,1053.64,10/03/2019,Wonka Company,Murray Chang,none,33
+826,8,Aracaju (SE),Florianopolis (SC),firstClass,1499.93,2.1,808.85,FlyingDrops,10/24/2019,8,Hotel A,Florianopolis (SC),3,313.02,939.06,10/24/2019,Wonka Company,Chris Gregory,male,44
+826,8,Florianopolis (SC),Aracaju (SE),firstClass,1574.28,2.1,808.85,FlyingDrops,10/27/2019,8,Hotel A,Florianopolis (SC),3,313.02,939.06,10/24/2019,Wonka Company,Chris Gregory,male,44
+827,8,Brasilia (DF),Recife (PE),firstClass,804.24,0.63,242.21,CloudFy,10/31/2019,8,Hotel AU,Recife (PE),4,312.83,1251.32,10/31/2019,Wonka Company,James Lubin,male,54
+827,8,Recife (PE),Brasilia (DF),firstClass,709.25,0.63,242.21,CloudFy,11/04/2019,8,Hotel AU,Recife (PE),4,312.83,1251.32,10/31/2019,Wonka Company,James Lubin,male,54
+830,8,Aracaju (SE),Natal (RN),premium,535.95,0.46,176.33,CloudFy,11/21/2019,8,Hotel BD,Natal (RN),4,242.88,971.52,11/21/2019,Wonka Company,Carlos Hernandez,male,32
+830,8,Natal (RN),Aracaju (SE),premium,451.41,0.46,176.33,CloudFy,11/25/2019,8,Hotel BD,Natal (RN),4,242.88,971.52,11/21/2019,Wonka Company,Carlos Hernandez,male,32
+834,8,Aracaju (SE),Brasilia (DF),firstClass,959.29,1.11,425.98,Rainbow,12/19/2019,8,Hotel BP,Brasilia (DF),2,247.62,495.24,12/19/2019,Wonka Company,Carlos Lanier,male,58
+834,8,Brasilia (DF),Aracaju (SE),firstClass,1214.82,1.11,425.98,Rainbow,12/21/2019,8,Hotel BP,Brasilia (DF),2,247.62,495.24,12/19/2019,Wonka Company,Carlos Lanier,male,58
+836,8,Recife (PE),Sao Paulo (SP),premium,657.87,1.26,486.52,CloudFy,01/02/2020,8,Hotel AF,Sao Paulo (SP),1,139.1,139.1,01/02/2020,Wonka Company,Edward Amsterdam,male,36
+836,8,Sao Paulo (SP),Recife (PE),premium,1195.26,1.26,486.52,CloudFy,01/03/2020,8,Hotel AF,Sao Paulo (SP),1,139.1,139.1,01/02/2020,Wonka Company,Edward Amsterdam,male,36
+838,8,Recife (PE),Natal (RN),premium,488.73,0.58,222.67,Rainbow,01/16/2020,8,Hotel BD,Natal (RN),1,242.88,242.88,01/16/2020,Wonka Company,Rosemary Kelly,female,23
+838,8,Natal (RN),Recife (PE),premium,579.62,0.58,222.67,Rainbow,01/17/2020,8,Hotel BD,Natal (RN),1,242.88,242.88,01/16/2020,Wonka Company,Rosemary Kelly,female,23
+840,8,Brasilia (DF),Aracaju (SE),firstClass,1214.82,1.11,425.98,Rainbow,01/30/2020,8,Hotel Z,Aracaju (SE),1,208.04,208.04,01/30/2020,Wonka Company,John Vil,none,55
+840,8,Aracaju (SE),Brasilia (DF),firstClass,959.29,1.11,425.98,Rainbow,01/31/2020,8,Hotel Z,Aracaju (SE),1,208.04,208.04,01/30/2020,Wonka Company,John Vil,none,55
+852,8,Aracaju (SE),Florianopolis (SC),firstClass,1499.93,2.1,808.85,FlyingDrops,04/23/2020,8,Hotel A,Florianopolis (SC),1,313.02,313.02,04/23/2020,Wonka Company,Kaitlyn Wood,female,57
+852,8,Florianopolis (SC),Aracaju (SE),firstClass,1574.28,2.1,808.85,FlyingDrops,04/24/2020,8,Hotel A,Florianopolis (SC),1,313.02,313.02,04/23/2020,Wonka Company,Kaitlyn Wood,female,57
+857,8,Brasilia (DF),Rio de Janeiro (RJ),premium,440.69,0.48,183.37,Rainbow,05/28/2020,8,Hotel CB,Rio de Janeiro (RJ),2,165.99,331.98,05/28/2020,Wonka Company,Tony Lilly,none,28
+857,8,Rio de Janeiro (RJ),Brasilia (DF),premium,435.67,0.48,183.37,Rainbow,05/30/2020,8,Hotel CB,Rio de Janeiro (RJ),2,165.99,331.98,05/28/2020,Wonka Company,Tony Lilly,none,28
+861,8,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1190.94,1.55,597.61,FlyingDrops,06/25/2020,8,Hotel CB,Rio de Janeiro (RJ),2,165.99,331.98,06/25/2020,Wonka Company,Yu Edwards,none,47
+861,8,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1381.55,1.55,597.61,FlyingDrops,06/27/2020,8,Hotel CB,Rio de Janeiro (RJ),2,165.99,331.98,06/25/2020,Wonka Company,Yu Edwards,none,47
+862,8,Recife (PE),Rio de Janeiro (RJ),firstClass,1612.39,2.3,885.57,CloudFy,07/02/2020,8,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,07/02/2020,Wonka Company,Margaret Phillips,none,39
+862,8,Rio de Janeiro (RJ),Recife (PE),firstClass,1664.01,2.3,885.57,CloudFy,07/03/2020,8,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,07/02/2020,Wonka Company,Margaret Phillips,none,39
+864,8,Recife (PE),Brasilia (DF),firstClass,709.25,0.63,242.21,CloudFy,07/16/2020,8,Hotel BP,Brasilia (DF),2,247.62,495.24,07/16/2020,Wonka Company,Helen Weidert,none,24
+864,8,Brasilia (DF),Recife (PE),firstClass,804.24,0.63,242.21,CloudFy,07/18/2020,8,Hotel BP,Brasilia (DF),2,247.62,495.24,07/16/2020,Wonka Company,Helen Weidert,none,24
+865,8,Aracaju (SE),Campo Grande (MS),economic,750.92,1.69,650.1,CloudFy,07/23/2020,8,Hotel BW,Campo Grande (MS),3,60.39,181.17,07/23/2020,Wonka Company,Gary Thurston,male,49
+865,8,Campo Grande (MS),Aracaju (SE),economic,886.9,1.69,650.1,CloudFy,07/26/2020,8,Hotel BW,Campo Grande (MS),3,60.39,181.17,07/23/2020,Wonka Company,Gary Thurston,male,49
+869,8,Recife (PE),Brasilia (DF),economic,439.38,0.63,242.21,Rainbow,08/20/2020,8,Hotel BP,Brasilia (DF),4,247.62,990.48,08/20/2020,Wonka Company,Jose Bowen,male,65
+869,8,Brasilia (DF),Recife (PE),economic,421.2,0.63,242.21,Rainbow,08/24/2020,8,Hotel BP,Brasilia (DF),4,247.62,990.48,08/20/2020,Wonka Company,Jose Bowen,male,65
+871,8,Recife (PE),Natal (RN),premium,488.73,0.58,222.67,Rainbow,09/03/2020,8,Hotel BD,Natal (RN),4,242.88,971.52,09/03/2020,Wonka Company,Ruben Beezley,male,21
+871,8,Natal (RN),Recife (PE),premium,579.62,0.58,222.67,Rainbow,09/07/2020,8,Hotel BD,Natal (RN),4,242.88,971.52,09/03/2020,Wonka Company,Ruben Beezley,male,21
+892,8,Brasilia (DF),Florianopolis (SC),premium,1189.32,1.66,637.56,CloudFy,01/28/2021,8,Hotel A,Florianopolis (SC),2,313.02,626.04,01/28/2021,Acme Factory,Tanya Norman,female,23
+892,8,Florianopolis (SC),Brasilia (DF),premium,885.37,1.66,637.56,CloudFy,01/30/2021,8,Hotel A,Florianopolis (SC),2,313.02,626.04,01/28/2021,Acme Factory,Tanya Norman,female,23
+894,8,Recife (PE),Brasilia (DF),firstClass,721.93,0.63,242.21,Rainbow,02/11/2021,8,Hotel BP,Brasilia (DF),3,247.62,742.86,02/11/2021,Acme Factory,Ashley Miller,female,24
+894,8,Brasilia (DF),Recife (PE),firstClass,772.21,0.63,242.21,Rainbow,02/14/2021,8,Hotel BP,Brasilia (DF),3,247.62,742.86,02/11/2021,Acme Factory,Ashley Miller,female,24
+900,8,Brasilia (DF),Natal (RN),firstClass,1313.76,1.43,550.69,CloudFy,03/25/2021,8,Hotel BD,Natal (RN),2,242.88,485.76,03/25/2021,Acme Factory,Darin Lopez,male,35
+900,8,Natal (RN),Brasilia (DF),firstClass,1300.53,1.43,550.69,CloudFy,03/27/2021,8,Hotel BD,Natal (RN),2,242.88,485.76,03/25/2021,Acme Factory,Darin Lopez,male,35
+904,8,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,04/22/2021,8,Hotel AU,Recife (PE),4,312.83,1251.32,04/22/2021,Acme Factory,Rebecca Beach,none,27
+904,8,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,04/26/2021,8,Hotel AU,Recife (PE),4,312.83,1251.32,04/22/2021,Acme Factory,Rebecca Beach,none,27
+907,8,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,05/13/2021,8,Hotel AU,Recife (PE),3,312.83,938.49,05/13/2021,Acme Factory,Daniel Capone,none,55
+907,8,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,05/16/2021,8,Hotel AU,Recife (PE),3,312.83,938.49,05/13/2021,Acme Factory,Daniel Capone,none,55
+911,8,Aracaju (SE),Natal (RN),premium,535.95,0.46,176.33,CloudFy,06/10/2021,8,Hotel BD,Natal (RN),4,242.88,971.52,06/10/2021,Acme Factory,Eric Starkey,male,47
+911,8,Natal (RN),Aracaju (SE),premium,451.41,0.46,176.33,CloudFy,06/14/2021,8,Hotel BD,Natal (RN),4,242.88,971.52,06/10/2021,Acme Factory,Eric Starkey,male,47
+913,8,Aracaju (SE),Florianopolis (SC),firstClass,1499.93,2.1,808.85,FlyingDrops,06/24/2021,8,Hotel A,Florianopolis (SC),1,313.02,313.02,06/24/2021,Acme Factory,Elsa Wagner,female,37
+913,8,Florianopolis (SC),Aracaju (SE),firstClass,1574.28,2.1,808.85,FlyingDrops,06/25/2021,8,Hotel A,Florianopolis (SC),1,313.02,313.02,06/24/2021,Acme Factory,Elsa Wagner,female,37
+914,8,Aracaju (SE),Natal (RN),firstClass,598.61,0.46,176.33,CloudFy,07/01/2021,8,Hotel BD,Natal (RN),3,242.88,728.64,07/01/2021,Acme Factory,Jeffrey Ramage,male,40
+914,8,Natal (RN),Aracaju (SE),firstClass,576.66,0.46,176.33,CloudFy,07/04/2021,8,Hotel BD,Natal (RN),3,242.88,728.64,07/01/2021,Acme Factory,Jeffrey Ramage,male,40
+917,8,Aracaju (SE),Natal (RN),economic,380.32,0.46,176.33,Rainbow,07/22/2021,8,Hotel BD,Natal (RN),3,242.88,728.64,07/22/2021,Acme Factory,Claude Ramos,male,46
+917,8,Natal (RN),Aracaju (SE),economic,301.61,0.46,176.33,Rainbow,07/25/2021,8,Hotel BD,Natal (RN),3,242.88,728.64,07/22/2021,Acme Factory,Claude Ramos,male,46
+919,8,Recife (PE),Campo Grande (MS),firstClass,1038.95,1.39,535.4,FlyingDrops,08/05/2021,8,Hotel BW,Campo Grande (MS),4,60.39,241.56,08/05/2021,Acme Factory,Robert Luther,male,52
+919,8,Campo Grande (MS),Recife (PE),firstClass,1262.23,1.39,535.4,FlyingDrops,08/09/2021,8,Hotel BW,Campo Grande (MS),4,60.39,241.56,08/05/2021,Acme Factory,Robert Luther,male,52
+920,8,Brasilia (DF),Natal (RN),premium,1107.52,1.43,550.69,Rainbow,08/12/2021,8,Hotel BD,Natal (RN),4,242.88,971.52,08/12/2021,Acme Factory,Vincent Reyna,male,65
+920,8,Natal (RN),Brasilia (DF),premium,919.89,1.43,550.69,Rainbow,08/16/2021,8,Hotel BD,Natal (RN),4,242.88,971.52,08/12/2021,Acme Factory,Vincent Reyna,male,65
+922,8,Aracaju (SE),Recife (PE),premium,875.41,1.44,555.74,Rainbow,08/26/2021,8,Hotel AU,Recife (PE),4,312.83,1251.32,08/26/2021,Acme Factory,Earl Collins,male,31
+922,8,Recife (PE),Aracaju (SE),premium,932.22,1.44,555.74,Rainbow,08/30/2021,8,Hotel AU,Recife (PE),4,312.83,1251.32,08/26/2021,Acme Factory,Earl Collins,male,31
+923,8,Brasilia (DF),Florianopolis (SC),economic,884.94,1.66,637.56,CloudFy,09/02/2021,8,Hotel A,Florianopolis (SC),4,313.02,1252.08,09/02/2021,Acme Factory,Dorothy Palmer,none,55
+923,8,Florianopolis (SC),Brasilia (DF),economic,636.51,1.66,637.56,CloudFy,09/06/2021,8,Hotel A,Florianopolis (SC),4,313.02,1252.08,09/02/2021,Acme Factory,Dorothy Palmer,none,55
+925,8,Aracaju (SE),Campo Grande (MS),firstClass,1387.89,1.69,650.1,Rainbow,09/16/2021,8,Hotel BW,Campo Grande (MS),1,60.39,60.39,09/16/2021,Acme Factory,Jessie Armstrong,none,64
+925,8,Campo Grande (MS),Aracaju (SE),firstClass,1545.78,1.69,650.1,Rainbow,09/17/2021,8,Hotel BW,Campo Grande (MS),1,60.39,60.39,09/16/2021,Acme Factory,Jessie Armstrong,none,64
+928,8,Brasilia (DF),Campo Grande (MS),firstClass,1096.58,0.72,277.7,CloudFy,10/07/2021,8,Hotel BW,Campo Grande (MS),1,60.39,60.39,10/07/2021,Acme Factory,Sonia Walsh,female,24
+928,8,Campo Grande (MS),Brasilia (DF),firstClass,949.99,0.72,277.7,CloudFy,10/08/2021,8,Hotel BW,Campo Grande (MS),1,60.39,60.39,10/07/2021,Acme Factory,Sonia Walsh,female,24
+932,8,Recife (PE),Salvador (BH),firstClass,1470.41,2.05,788.55,Rainbow,11/04/2021,8,Hotel K,Salvador (BH),2,263.41,526.82,11/04/2021,Acme Factory,Theresa Smith,female,43
+932,8,Salvador (BH),Recife (PE),firstClass,1440.25,2.05,788.55,Rainbow,11/06/2021,8,Hotel K,Salvador (BH),2,263.41,526.82,11/04/2021,Acme Factory,Theresa Smith,female,43
+935,8,Aracaju (SE),Natal (RN),premium,427.25,0.46,176.33,Rainbow,11/25/2021,8,Hotel BD,Natal (RN),3,242.88,728.64,11/25/2021,Acme Factory,Santo Christ,male,46
+935,8,Natal (RN),Aracaju (SE),premium,479.37,0.46,176.33,Rainbow,11/28/2021,8,Hotel BD,Natal (RN),3,242.88,728.64,11/25/2021,Acme Factory,Santo Christ,male,46
+938,8,Aracaju (SE),Sao Paulo (SP),economic,446.73,1.02,392.76,Rainbow,12/16/2021,8,Hotel AF,Sao Paulo (SP),3,139.1,417.3,12/16/2021,Acme Factory,Allison White,none,28
+938,8,Sao Paulo (SP),Aracaju (SE),economic,647.9,1.02,392.76,Rainbow,12/19/2021,8,Hotel AF,Sao Paulo (SP),3,139.1,417.3,12/16/2021,Acme Factory,Allison White,none,28
+942,8,Recife (PE),Campo Grande (MS),economic,563.71,1.39,535.4,CloudFy,01/13/2022,8,Hotel BW,Campo Grande (MS),1,60.39,60.39,01/13/2022,Acme Factory,Delia Rodriguez,none,26
+942,8,Campo Grande (MS),Recife (PE),economic,659.43,1.39,535.4,CloudFy,01/14/2022,8,Hotel BW,Campo Grande (MS),1,60.39,60.39,01/13/2022,Acme Factory,Delia Rodriguez,none,26
+944,8,Aracaju (SE),Recife (PE),firstClass,1124.11,1.44,555.74,CloudFy,01/27/2022,8,Hotel AU,Recife (PE),3,312.83,938.49,01/27/2022,Acme Factory,Carol Bogdan,none,33
+944,8,Recife (PE),Aracaju (SE),firstClass,1166.1,1.44,555.74,CloudFy,01/30/2022,8,Hotel AU,Recife (PE),3,312.83,938.49,01/27/2022,Acme Factory,Carol Bogdan,none,33
+945,8,Brasilia (DF),Natal (RN),premium,1107.52,1.43,550.69,Rainbow,02/03/2022,8,Hotel BD,Natal (RN),1,242.88,242.88,02/03/2022,Acme Factory,Kirk Mccormick,male,55
+945,8,Natal (RN),Brasilia (DF),premium,919.89,1.43,550.69,Rainbow,02/04/2022,8,Hotel BD,Natal (RN),1,242.88,242.88,02/03/2022,Acme Factory,Kirk Mccormick,male,55
+948,8,Recife (PE),Natal (RN),economic,301.51,0.58,222.67,CloudFy,02/24/2022,8,Hotel BD,Natal (RN),4,242.88,971.52,02/24/2022,Acme Factory,Phyllis Flynn,female,36
+948,8,Natal (RN),Recife (PE),economic,429.77,0.58,222.67,CloudFy,02/28/2022,8,Hotel BD,Natal (RN),4,242.88,971.52,02/24/2022,Acme Factory,Phyllis Flynn,female,36
+950,8,Aracaju (SE),Sao Paulo (SP),economic,446.73,1.02,392.76,Rainbow,03/10/2022,8,Hotel AF,Sao Paulo (SP),4,139.1,556.4,03/10/2022,Acme Factory,Ivan Henton,male,32
+950,8,Sao Paulo (SP),Aracaju (SE),economic,647.9,1.02,392.76,Rainbow,03/14/2022,8,Hotel AF,Sao Paulo (SP),4,139.1,556.4,03/10/2022,Acme Factory,Ivan Henton,male,32
+957,8,Recife (PE),Aracaju (SE),premium,932.22,1.44,555.74,Rainbow,04/28/2022,8,Hotel Z,Aracaju (SE),4,208.04,832.16,04/28/2022,Acme Factory,Charles Zoutte,male,64
+957,8,Aracaju (SE),Recife (PE),premium,875.41,1.44,555.74,Rainbow,05/02/2022,8,Hotel Z,Aracaju (SE),4,208.04,832.16,04/28/2022,Acme Factory,Charles Zoutte,male,64
+958,8,Brasilia (DF),Natal (RN),firstClass,1433.35,1.43,550.69,FlyingDrops,05/05/2022,8,Hotel BD,Natal (RN),2,242.88,485.76,05/05/2022,Acme Factory,Glenn Jenkins,male,51
+958,8,Natal (RN),Brasilia (DF),firstClass,1192.62,1.43,550.69,FlyingDrops,05/07/2022,8,Hotel BD,Natal (RN),2,242.88,485.76,05/05/2022,Acme Factory,Glenn Jenkins,male,51
+962,8,Aracaju (SE),Recife (PE),firstClass,1124.11,1.44,555.74,CloudFy,06/02/2022,8,Hotel AU,Recife (PE),2,312.83,625.66,06/02/2022,Acme Factory,Tiffany Behm,female,46
+962,8,Recife (PE),Aracaju (SE),firstClass,1166.1,1.44,555.74,CloudFy,06/04/2022,8,Hotel AU,Recife (PE),2,312.83,625.66,06/02/2022,Acme Factory,Tiffany Behm,female,46
+966,8,Recife (PE),Aracaju (SE),premium,932.22,1.44,555.74,Rainbow,06/30/2022,8,Hotel Z,Aracaju (SE),2,208.04,416.08,06/30/2022,Acme Factory,Steven Armstrong,male,54
+966,8,Aracaju (SE),Recife (PE),premium,875.41,1.44,555.74,Rainbow,07/02/2022,8,Hotel Z,Aracaju (SE),2,208.04,416.08,06/30/2022,Acme Factory,Steven Armstrong,male,54
+967,8,Recife (PE),Rio de Janeiro (RJ),firstClass,1611.14,2.3,885.57,Rainbow,07/07/2022,8,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,07/07/2022,Acme Factory,Helen Castrellon,none,39
+967,8,Rio de Janeiro (RJ),Recife (PE),firstClass,1617.81,2.3,885.57,Rainbow,07/10/2022,8,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,07/07/2022,Acme Factory,Helen Castrellon,none,39
+969,8,Recife (PE),Campo Grande (MS),firstClass,1069.12,1.39,535.4,Rainbow,07/21/2022,8,Hotel BW,Campo Grande (MS),2,60.39,120.78,07/21/2022,Acme Factory,Christopher Marquez,male,27
+969,8,Campo Grande (MS),Recife (PE),firstClass,1185.95,1.39,535.4,Rainbow,07/23/2022,8,Hotel BW,Campo Grande (MS),2,60.39,120.78,07/21/2022,Acme Factory,Christopher Marquez,male,27
+970,8,Recife (PE),Sao Paulo (SP),firstClass,980.83,1.26,486.52,Rainbow,07/28/2022,8,Hotel AF,Sao Paulo (SP),1,139.1,139.1,07/28/2022,Acme Factory,Juan Flood,male,35
+970,8,Sao Paulo (SP),Recife (PE),firstClass,1573.5,1.26,486.52,Rainbow,07/29/2022,8,Hotel AF,Sao Paulo (SP),1,139.1,139.1,07/28/2022,Acme Factory,Juan Flood,male,35
+972,8,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,08/11/2022,8,Hotel AU,Recife (PE),3,312.83,938.49,08/11/2022,Acme Factory,Lisa Ward,none,32
+972,8,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,08/14/2022,8,Hotel AU,Recife (PE),3,312.83,938.49,08/11/2022,Acme Factory,Lisa Ward,none,32
+974,8,Brasilia (DF),Florianopolis (SC),premium,1222.24,1.66,637.56,Rainbow,08/25/2022,8,Hotel A,Florianopolis (SC),1,313.02,313.02,08/25/2022,Acme Factory,Katina Filion,female,50
+974,8,Florianopolis (SC),Brasilia (DF),premium,814.55,1.66,637.56,Rainbow,08/26/2022,8,Hotel A,Florianopolis (SC),1,313.02,313.02,08/25/2022,Acme Factory,Katina Filion,female,50
+977,8,Brasilia (DF),Recife (PE),premium,559.13,0.63,242.21,Rainbow,09/15/2022,8,Hotel AU,Recife (PE),4,312.83,1251.32,09/15/2022,Acme Factory,Suzanne Mancine,none,58
+977,8,Recife (PE),Brasilia (DF),premium,638.63,0.63,242.21,Rainbow,09/19/2022,8,Hotel AU,Recife (PE),4,312.83,1251.32,09/15/2022,Acme Factory,Suzanne Mancine,none,58
+984,8,Recife (PE),Aracaju (SE),firstClass,1181.19,1.44,555.74,Rainbow,11/03/2022,8,Hotel Z,Aracaju (SE),4,208.04,832.16,11/03/2022,Acme Factory,George Yanez,none,29
+984,8,Aracaju (SE),Recife (PE),firstClass,1119.47,1.44,555.74,Rainbow,11/07/2022,8,Hotel Z,Aracaju (SE),4,208.04,832.16,11/03/2022,Acme Factory,George Yanez,none,29
+987,8,Recife (PE),Aracaju (SE),economic,663.23,1.44,555.74,Rainbow,11/24/2022,8,Hotel Z,Aracaju (SE),1,208.04,208.04,11/24/2022,Acme Factory,Chris Dougherty,none,40
+987,8,Aracaju (SE),Recife (PE),economic,602.49,1.44,555.74,Rainbow,11/25/2022,8,Hotel Z,Aracaju (SE),1,208.04,208.04,11/24/2022,Acme Factory,Chris Dougherty,none,40
+988,8,Brasilia (DF),Salvador (BH),firstClass,1665.24,1.76,676.56,Rainbow,12/01/2022,8,Hotel K,Salvador (BH),4,263.41,1053.64,12/01/2022,Acme Factory,Tosha Hilton,female,36
+988,8,Salvador (BH),Brasilia (DF),firstClass,1040.84,1.76,676.56,Rainbow,12/05/2022,8,Hotel K,Salvador (BH),4,263.41,1053.64,12/01/2022,Acme Factory,Tosha Hilton,female,36
+997,9,Brasilia (DF),Sao Paulo (SP),firstClass,992.17,0.67,257.81,Rainbow,09/26/2019,9,Hotel AF,Sao Paulo (SP),4,139.1,556.4,09/26/2019,Acme Factory,Shirley Rowles,female,39
+997,9,Sao Paulo (SP),Brasilia (DF),firstClass,824.31,0.67,257.81,Rainbow,09/30/2019,9,Hotel AF,Sao Paulo (SP),4,139.1,556.4,09/26/2019,Acme Factory,Shirley Rowles,female,39
+998,9,Aracaju (SE),Natal (RN),firstClass,549.96,0.46,176.33,Rainbow,10/03/2019,9,Hotel BD,Natal (RN),2,242.88,485.76,10/03/2019,Acme Factory,Betty Lindley,none,31
+998,9,Natal (RN),Aracaju (SE),firstClass,611.4,0.46,176.33,Rainbow,10/05/2019,9,Hotel BD,Natal (RN),2,242.88,485.76,10/03/2019,Acme Factory,Betty Lindley,none,31
+999,9,Aracaju (SE),Florianopolis (SC),premium,1174.97,2.1,808.85,CloudFy,10/10/2019,9,Hotel A,Florianopolis (SC),3,313.02,939.06,10/10/2019,Acme Factory,Robert Scroggs,none,44
+999,9,Florianopolis (SC),Aracaju (SE),premium,1149.53,2.1,808.85,CloudFy,10/13/2019,9,Hotel A,Florianopolis (SC),3,313.02,939.06,10/10/2019,Acme Factory,Robert Scroggs,none,44
+1006,9,Aracaju (SE),Recife (PE),firstClass,1124.11,1.44,555.74,CloudFy,11/28/2019,9,Hotel AU,Recife (PE),2,312.83,625.66,11/28/2019,Acme Factory,Gregory Dugas,none,33
+1006,9,Recife (PE),Aracaju (SE),firstClass,1166.1,1.44,555.74,CloudFy,11/30/2019,9,Hotel AU,Recife (PE),2,312.83,625.66,11/28/2019,Acme Factory,Gregory Dugas,none,33
+1007,9,Recife (PE),Aracaju (SE),firstClass,1166.1,1.44,555.74,CloudFy,12/05/2019,9,Hotel Z,Aracaju (SE),2,208.04,416.08,12/05/2019,Acme Factory,Shirley Barnhill,female,51
+1007,9,Aracaju (SE),Recife (PE),firstClass,1124.11,1.44,555.74,CloudFy,12/07/2019,9,Hotel Z,Aracaju (SE),2,208.04,416.08,12/05/2019,Acme Factory,Shirley Barnhill,female,51
+1012,9,Aracaju (SE),Recife (PE),firstClass,1119.47,1.44,555.74,Rainbow,01/09/2020,9,Hotel AU,Recife (PE),4,312.83,1251.32,01/09/2020,Acme Factory,Marvel Gill,female,46
+1012,9,Recife (PE),Aracaju (SE),firstClass,1181.19,1.44,555.74,Rainbow,01/13/2020,9,Hotel AU,Recife (PE),4,312.83,1251.32,01/09/2020,Acme Factory,Marvel Gill,female,46
+1014,9,Recife (PE),Campo Grande (MS),economic,615.59,1.39,535.4,Rainbow,01/23/2020,9,Hotel BW,Campo Grande (MS),3,60.39,181.17,01/23/2020,Acme Factory,Rosie Perdue,none,41
+1014,9,Campo Grande (MS),Recife (PE),economic,674.16,1.39,535.4,Rainbow,01/26/2020,9,Hotel BW,Campo Grande (MS),3,60.39,181.17,01/23/2020,Acme Factory,Rosie Perdue,none,41
+1016,9,Aracaju (SE),Salvador (BH),premium,1288.79,2.16,830.86,CloudFy,02/06/2020,9,Hotel K,Salvador (BH),4,263.41,1053.64,02/06/2020,Acme Factory,Nola Harris,female,54
+1016,9,Salvador (BH),Aracaju (SE),premium,1209.04,2.16,830.86,CloudFy,02/10/2020,9,Hotel K,Salvador (BH),4,263.41,1053.64,02/06/2020,Acme Factory,Nola Harris,female,54
+1018,9,Aracaju (SE),Campo Grande (MS),firstClass,1389.37,1.69,650.1,CloudFy,02/20/2020,9,Hotel BW,Campo Grande (MS),2,60.39,120.78,02/20/2020,Acme Factory,Elke Cavallaro,female,31
+1018,9,Campo Grande (MS),Aracaju (SE),firstClass,1581.8,1.69,650.1,CloudFy,02/22/2020,9,Hotel BW,Campo Grande (MS),2,60.39,120.78,02/20/2020,Acme Factory,Elke Cavallaro,female,31
+1025,9,Brasilia (DF),Salvador (BH),firstClass,1665.24,1.76,676.56,Rainbow,04/09/2020,9,Hotel K,Salvador (BH),4,263.41,1053.64,04/09/2020,Acme Factory,Steven Napier,male,57
+1025,9,Salvador (BH),Brasilia (DF),firstClass,1040.84,1.76,676.56,Rainbow,04/13/2020,9,Hotel K,Salvador (BH),4,263.41,1053.64,04/09/2020,Acme Factory,Steven Napier,male,57
+1034,9,Brasilia (DF),Florianopolis (SC),economic,889.07,1.66,637.56,Rainbow,06/11/2020,9,Hotel A,Florianopolis (SC),2,313.02,626.04,06/11/2020,Acme Factory,Alton Jastrebski,male,32
+1034,9,Florianopolis (SC),Brasilia (DF),economic,555.01,1.66,637.56,Rainbow,06/13/2020,9,Hotel A,Florianopolis (SC),2,313.02,626.04,06/11/2020,Acme Factory,Alton Jastrebski,male,32
+1035,9,Aracaju (SE),Campo Grande (MS),economic,750.92,1.69,650.1,CloudFy,06/18/2020,9,Hotel BW,Campo Grande (MS),4,60.39,241.56,06/18/2020,Acme Factory,Katherine Ruff,none,37
+1035,9,Campo Grande (MS),Aracaju (SE),economic,886.9,1.69,650.1,CloudFy,06/22/2020,9,Hotel BW,Campo Grande (MS),4,60.39,241.56,06/18/2020,Acme Factory,Katherine Ruff,none,37
+1038,9,Aracaju (SE),Brasilia (DF),economic,548.62,1.11,425.98,Rainbow,07/09/2020,9,Hotel BP,Brasilia (DF),1,247.62,247.62,07/09/2020,Acme Factory,Alice Hernandez,female,46
+1038,9,Brasilia (DF),Aracaju (SE),economic,721.2,1.11,425.98,Rainbow,07/10/2020,9,Hotel BP,Brasilia (DF),1,247.62,247.62,07/09/2020,Acme Factory,Alice Hernandez,female,46
+1041,9,Recife (PE),Aracaju (SE),firstClass,1166.1,1.44,555.74,CloudFy,07/30/2020,9,Hotel Z,Aracaju (SE),4,208.04,832.16,07/30/2020,Acme Factory,Mike Casillas,male,33
+1041,9,Aracaju (SE),Recife (PE),firstClass,1124.11,1.44,555.74,CloudFy,08/03/2020,9,Hotel Z,Aracaju (SE),4,208.04,832.16,07/30/2020,Acme Factory,Mike Casillas,male,33
+1048,9,Recife (PE),Florianopolis (SC),firstClass,1434.38,1.76,676.53,FlyingDrops,09/17/2020,9,Hotel A,Florianopolis (SC),3,313.02,939.06,09/17/2020,Acme Factory,Grace Martin,female,27
+1048,9,Florianopolis (SC),Recife (PE),firstClass,1292.29,1.76,676.53,FlyingDrops,09/20/2020,9,Hotel A,Florianopolis (SC),3,313.02,939.06,09/17/2020,Acme Factory,Grace Martin,female,27
+1051,9,Recife (PE),Sao Paulo (SP),premium,670.13,1.26,486.52,Rainbow,10/08/2020,9,Hotel AF,Sao Paulo (SP),4,139.1,556.4,10/08/2020,Acme Factory,Catalina Rosario,female,57
+1051,9,Sao Paulo (SP),Recife (PE),premium,1145.72,1.26,486.52,Rainbow,10/12/2020,9,Hotel AF,Sao Paulo (SP),4,139.1,556.4,10/08/2020,Acme Factory,Catalina Rosario,female,57
+1052,9,Aracaju (SE),Brasilia (DF),economic,548.62,1.11,425.98,Rainbow,10/15/2020,9,Hotel BP,Brasilia (DF),4,247.62,990.48,10/15/2020,Acme Factory,Francis Ferry,none,34
+1052,9,Brasilia (DF),Aracaju (SE),economic,721.2,1.11,425.98,Rainbow,10/19/2020,9,Hotel BP,Brasilia (DF),4,247.62,990.48,10/15/2020,Acme Factory,Francis Ferry,none,34
+1053,9,Recife (PE),Sao Paulo (SP),premium,657.87,1.26,486.52,CloudFy,10/22/2020,9,Hotel AF,Sao Paulo (SP),2,139.1,278.2,10/22/2020,Acme Factory,Paul Hovermale,male,46
+1053,9,Sao Paulo (SP),Recife (PE),premium,1195.26,1.26,486.52,CloudFy,10/24/2020,9,Hotel AF,Sao Paulo (SP),2,139.1,278.2,10/22/2020,Acme Factory,Paul Hovermale,male,46
+1055,9,Recife (PE),Salvador (BH),economic,861.68,2.05,788.55,Rainbow,11/05/2020,9,Hotel K,Salvador (BH),3,263.41,790.23,11/05/2020,Acme Factory,Demarcus Vaughan,none,25
+1055,9,Salvador (BH),Recife (PE),economic,751.37,2.05,788.55,Rainbow,11/08/2020,9,Hotel K,Salvador (BH),3,263.41,790.23,11/05/2020,Acme Factory,Demarcus Vaughan,none,25
+1065,9,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1190.94,1.55,597.61,FlyingDrops,01/14/2021,9,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,01/14/2021,Acme Factory,Casey Joos,male,60
+1065,9,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1381.55,1.55,597.61,FlyingDrops,01/17/2021,9,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,01/14/2021,Acme Factory,Casey Joos,male,60
+1067,9,Recife (PE),Salvador (BH),economic,842.11,2.05,788.55,CloudFy,01/28/2021,9,Hotel K,Salvador (BH),3,263.41,790.23,01/28/2021,Acme Factory,Rosita Dorsch,female,36
+1067,9,Salvador (BH),Recife (PE),economic,767.27,2.05,788.55,CloudFy,01/31/2021,9,Hotel K,Salvador (BH),3,263.41,790.23,01/28/2021,Acme Factory,Rosita Dorsch,female,36
+1077,9,Recife (PE),Campo Grande (MS),premium,832.77,1.39,535.4,Rainbow,04/08/2021,9,Hotel BW,Campo Grande (MS),1,60.39,60.39,04/08/2021,Acme Factory,David Harwell,none,36
+1077,9,Campo Grande (MS),Recife (PE),premium,991.22,1.39,535.4,Rainbow,04/09/2021,9,Hotel BW,Campo Grande (MS),1,60.39,60.39,04/08/2021,Acme Factory,David Harwell,none,36
+1078,9,Brasilia (DF),Salvador (BH),firstClass,1724.49,1.76,676.56,FlyingDrops,04/15/2021,9,Hotel K,Salvador (BH),3,263.41,790.23,04/15/2021,Acme Factory,Rashida Allan,none,55
+1078,9,Salvador (BH),Brasilia (DF),firstClass,1020.08,1.76,676.56,FlyingDrops,04/18/2021,9,Hotel K,Salvador (BH),3,263.41,790.23,04/15/2021,Acme Factory,Rashida Allan,none,55
+1084,9,Brasilia (DF),Rio de Janeiro (RJ),firstClass,539.39,0.48,183.37,FlyingDrops,05/27/2021,9,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,05/27/2021,Acme Factory,Gregory Clay,male,59
+1084,9,Rio de Janeiro (RJ),Brasilia (DF),firstClass,591.19,0.48,183.37,FlyingDrops,05/28/2021,9,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,05/27/2021,Acme Factory,Gregory Clay,male,59
+1090,9,Brasilia (DF),Rio de Janeiro (RJ),economic,344.26,0.48,183.37,CloudFy,07/08/2021,9,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,07/08/2021,Acme Factory,Albert Colley,none,39
+1090,9,Rio de Janeiro (RJ),Brasilia (DF),economic,369.57,0.48,183.37,CloudFy,07/11/2021,9,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,07/08/2021,Acme Factory,Albert Colley,none,39
+1091,9,Recife (PE),Campo Grande (MS),premium,832.77,1.39,535.4,Rainbow,07/15/2021,9,Hotel BW,Campo Grande (MS),2,60.39,120.78,07/15/2021,Acme Factory,Richard Mcdaries,male,22
+1091,9,Campo Grande (MS),Recife (PE),premium,991.22,1.39,535.4,Rainbow,07/17/2021,9,Hotel BW,Campo Grande (MS),2,60.39,120.78,07/15/2021,Acme Factory,Richard Mcdaries,male,22
+1093,9,Recife (PE),Campo Grande (MS),firstClass,1069.12,1.39,535.4,Rainbow,07/29/2021,9,Hotel BW,Campo Grande (MS),4,60.39,241.56,07/29/2021,Acme Factory,Todd Morgan,male,24
+1093,9,Campo Grande (MS),Recife (PE),firstClass,1185.95,1.39,535.4,Rainbow,08/02/2021,9,Hotel BW,Campo Grande (MS),4,60.39,241.56,07/29/2021,Acme Factory,Todd Morgan,male,24
+1095,9,Brasilia (DF),Salvador (BH),premium,1346.6,1.76,676.56,CloudFy,08/12/2021,9,Hotel K,Salvador (BH),1,263.41,263.41,08/12/2021,Acme Factory,Sam Donnelly,male,26
+1095,9,Salvador (BH),Brasilia (DF),premium,836.89,1.76,676.56,CloudFy,08/13/2021,9,Hotel K,Salvador (BH),1,263.41,263.41,08/12/2021,Acme Factory,Sam Donnelly,male,26
+1096,9,Aracaju (SE),Campo Grande (MS),premium,1021.53,1.69,650.1,CloudFy,08/19/2021,9,Hotel BW,Campo Grande (MS),3,60.39,181.17,08/19/2021,Acme Factory,Rosemary Finnell,female,29
+1096,9,Campo Grande (MS),Aracaju (SE),premium,1215.45,1.69,650.1,CloudFy,08/22/2021,9,Hotel BW,Campo Grande (MS),3,60.39,181.17,08/19/2021,Acme Factory,Rosemary Finnell,female,29
+1101,9,Aracaju (SE),Brasilia (DF),firstClass,898.04,1.11,425.98,FlyingDrops,09/23/2021,9,Hotel BP,Brasilia (DF),3,247.62,742.86,09/23/2021,Acme Factory,Kristin Gaiser,female,58
+1101,9,Brasilia (DF),Aracaju (SE),firstClass,1287.52,1.11,425.98,FlyingDrops,09/26/2021,9,Hotel BP,Brasilia (DF),3,247.62,742.86,09/23/2021,Acme Factory,Kristin Gaiser,female,58
+1103,9,Aracaju (SE),Recife (PE),firstClass,1119.47,1.44,555.74,Rainbow,10/07/2021,9,Hotel AU,Recife (PE),4,312.83,1251.32,10/07/2021,Acme Factory,Bernice Baker,female,23
+1103,9,Recife (PE),Aracaju (SE),firstClass,1181.19,1.44,555.74,Rainbow,10/11/2021,9,Hotel AU,Recife (PE),4,312.83,1251.32,10/07/2021,Acme Factory,Bernice Baker,female,23
+1106,9,Brasilia (DF),Campo Grande (MS),economic,583.6,0.72,277.7,CloudFy,10/28/2021,9,Hotel BW,Campo Grande (MS),3,60.39,181.17,10/28/2021,Acme Factory,Dwight Hammers,male,34
+1106,9,Campo Grande (MS),Brasilia (DF),economic,506.56,0.72,277.7,CloudFy,10/31/2021,9,Hotel BW,Campo Grande (MS),3,60.39,181.17,10/28/2021,Acme Factory,Dwight Hammers,male,34
+1113,10,Recife (PE),Natal (RN),premium,488.73,0.58,222.67,Rainbow,10/03/2019,10,Hotel BD,Natal (RN),1,242.88,242.88,10/03/2019,Acme Factory,Travis Cordell,male,44
+1113,10,Natal (RN),Recife (PE),premium,579.62,0.58,222.67,Rainbow,10/04/2019,10,Hotel BD,Natal (RN),1,242.88,242.88,10/03/2019,Acme Factory,Travis Cordell,male,44
+1119,10,Aracaju (SE),Salvador (BH),premium,1288.79,2.16,830.86,CloudFy,11/14/2019,10,Hotel K,Salvador (BH),3,263.41,790.23,11/14/2019,Acme Factory,Brian Eckhardt,none,29
+1119,10,Salvador (BH),Aracaju (SE),premium,1209.04,2.16,830.86,CloudFy,11/17/2019,10,Hotel K,Salvador (BH),3,263.41,790.23,11/14/2019,Acme Factory,Brian Eckhardt,none,29
+1125,10,Recife (PE),Brasilia (DF),firstClass,721.93,0.63,242.21,Rainbow,12/26/2019,10,Hotel BP,Brasilia (DF),4,247.62,990.48,12/26/2019,Acme Factory,Rebecca Englert,female,50
+1125,10,Brasilia (DF),Recife (PE),firstClass,772.21,0.63,242.21,Rainbow,12/30/2019,10,Hotel BP,Brasilia (DF),4,247.62,990.48,12/26/2019,Acme Factory,Rebecca Englert,female,50
+1133,10,Recife (PE),Brasilia (DF),firstClass,697.22,0.63,242.21,FlyingDrops,02/20/2020,10,Hotel BP,Brasilia (DF),4,247.62,990.48,02/20/2020,Acme Factory,Brady Harris,male,57
+1133,10,Brasilia (DF),Recife (PE),firstClass,691.39,0.63,242.21,FlyingDrops,02/24/2020,10,Hotel BP,Brasilia (DF),4,247.62,990.48,02/20/2020,Acme Factory,Brady Harris,male,57
+1136,10,Aracaju (SE),Salvador (BH),premium,1289.05,2.16,830.86,Rainbow,03/12/2020,10,Hotel K,Salvador (BH),2,263.41,526.82,03/12/2020,Acme Factory,Brian Mack,none,64
+1136,10,Salvador (BH),Aracaju (SE),premium,1247.02,2.16,830.86,Rainbow,03/14/2020,10,Hotel K,Salvador (BH),2,263.41,526.82,03/12/2020,Acme Factory,Brian Mack,none,64
+1139,10,Recife (PE),Campo Grande (MS),economic,615.59,1.39,535.4,Rainbow,04/02/2020,10,Hotel BW,Campo Grande (MS),1,60.39,60.39,04/02/2020,Acme Factory,Marcos Kirk,male,34
+1139,10,Campo Grande (MS),Recife (PE),economic,674.16,1.39,535.4,Rainbow,04/03/2020,10,Hotel BW,Campo Grande (MS),1,60.39,60.39,04/02/2020,Acme Factory,Marcos Kirk,male,34
+1144,10,Brasilia (DF),Campo Grande (MS),firstClass,1096.58,0.72,277.7,CloudFy,05/07/2020,10,Hotel BW,Campo Grande (MS),3,60.39,181.17,05/07/2020,Acme Factory,Norbert Covington,male,30
+1144,10,Campo Grande (MS),Brasilia (DF),firstClass,949.99,0.72,277.7,CloudFy,05/10/2020,10,Hotel BW,Campo Grande (MS),3,60.39,181.17,05/07/2020,Acme Factory,Norbert Covington,male,30
+1150,10,Recife (PE),Salvador (BH),premium,1249.83,2.05,788.55,Rainbow,06/18/2020,10,Hotel K,Salvador (BH),1,263.41,263.41,06/18/2020,Umbrella LTDA,Ruth Cook,none,27
+1150,10,Salvador (BH),Recife (PE),premium,1103.23,2.05,788.55,Rainbow,06/19/2020,10,Hotel K,Salvador (BH),1,263.41,263.41,06/18/2020,Umbrella LTDA,Ruth Cook,none,27
+1151,10,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1183.57,1.55,597.61,CloudFy,06/25/2020,10,Hotel CB,Rio de Janeiro (RJ),4,165.99,663.96,06/25/2020,Umbrella LTDA,Kathy Le,female,29
+1151,10,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1446.4,1.55,597.61,CloudFy,06/29/2020,10,Hotel CB,Rio de Janeiro (RJ),4,165.99,663.96,06/25/2020,Umbrella LTDA,Kathy Le,female,29
+1157,10,Recife (PE),Brasilia (DF),premium,573.61,0.63,242.21,CloudFy,08/06/2020,10,Hotel BP,Brasilia (DF),3,247.62,742.86,08/06/2020,Umbrella LTDA,Vilma Gehring,female,58
+1157,10,Brasilia (DF),Recife (PE),premium,568.38,0.63,242.21,CloudFy,08/09/2020,10,Hotel BP,Brasilia (DF),3,247.62,742.86,08/06/2020,Umbrella LTDA,Vilma Gehring,female,58
+1160,10,Recife (PE),Salvador (BH),premium,1249.83,2.05,788.55,Rainbow,08/27/2020,10,Hotel K,Salvador (BH),3,263.41,790.23,08/27/2020,Umbrella LTDA,Garth Alvarez,male,47
+1160,10,Salvador (BH),Recife (PE),premium,1103.23,2.05,788.55,Rainbow,08/30/2020,10,Hotel K,Salvador (BH),3,263.41,790.23,08/27/2020,Umbrella LTDA,Garth Alvarez,male,47
+1162,10,Aracaju (SE),Natal (RN),economic,380.32,0.46,176.33,Rainbow,09/10/2020,10,Hotel BD,Natal (RN),1,242.88,242.88,09/10/2020,Umbrella LTDA,Donnie Taylor,male,36
+1162,10,Natal (RN),Aracaju (SE),economic,301.61,0.46,176.33,Rainbow,09/11/2020,10,Hotel BD,Natal (RN),1,242.88,242.88,09/10/2020,Umbrella LTDA,Donnie Taylor,male,36
+1164,10,Recife (PE),Campo Grande (MS),economic,563.71,1.39,535.4,CloudFy,09/24/2020,10,Hotel BW,Campo Grande (MS),4,60.39,241.56,09/24/2020,Umbrella LTDA,John Brooks,male,39
+1164,10,Campo Grande (MS),Recife (PE),economic,659.43,1.39,535.4,CloudFy,09/28/2020,10,Hotel BW,Campo Grande (MS),4,60.39,241.56,09/24/2020,Umbrella LTDA,John Brooks,male,39
+1166,10,Aracaju (SE),Florianopolis (SC),premium,1174.97,2.1,808.85,CloudFy,10/08/2020,10,Hotel A,Florianopolis (SC),4,313.02,1252.08,10/08/2020,Umbrella LTDA,John Watson,male,32
+1166,10,Florianopolis (SC),Aracaju (SE),premium,1149.53,2.1,808.85,CloudFy,10/12/2020,10,Hotel A,Florianopolis (SC),4,313.02,1252.08,10/08/2020,Umbrella LTDA,John Watson,male,32
+1167,10,Aracaju (SE),Rio de Janeiro (RJ),economic,712.64,1.55,597.61,Rainbow,10/15/2020,10,Hotel CB,Rio de Janeiro (RJ),2,165.99,331.98,10/15/2020,Umbrella LTDA,Richard Kiani,male,21
+1167,10,Rio de Janeiro (RJ),Aracaju (SE),economic,734.09,1.55,597.61,Rainbow,10/17/2020,10,Hotel CB,Rio de Janeiro (RJ),2,165.99,331.98,10/15/2020,Umbrella LTDA,Richard Kiani,male,21
+1173,10,Recife (PE),Florianopolis (SC),premium,1074.75,1.76,676.53,CloudFy,11/26/2020,10,Hotel A,Florianopolis (SC),4,313.02,1252.08,11/26/2020,Umbrella LTDA,David Rave,none,29
+1173,10,Florianopolis (SC),Recife (PE),premium,918.66,1.76,676.53,CloudFy,11/30/2020,10,Hotel A,Florianopolis (SC),4,313.02,1252.08,11/26/2020,Umbrella LTDA,David Rave,none,29
+1174,10,Aracaju (SE),Brasilia (DF),premium,755.62,1.11,425.98,CloudFy,12/03/2020,10,Hotel BP,Brasilia (DF),1,247.62,247.62,12/03/2020,Umbrella LTDA,Tamie Thompson,none,26
+1174,10,Brasilia (DF),Aracaju (SE),premium,987.07,1.11,425.98,CloudFy,12/04/2020,10,Hotel BP,Brasilia (DF),1,247.62,247.62,12/03/2020,Umbrella LTDA,Tamie Thompson,none,26
+1177,11,Recife (PE),Campo Grande (MS),premium,832.77,1.39,535.4,Rainbow,10/03/2019,11,Hotel BW,Campo Grande (MS),2,60.39,120.78,10/03/2019,Umbrella LTDA,Brenda Faulk,female,59
+1177,11,Campo Grande (MS),Recife (PE),premium,991.22,1.39,535.4,Rainbow,10/05/2019,11,Hotel BW,Campo Grande (MS),2,60.39,120.78,10/03/2019,Umbrella LTDA,Brenda Faulk,female,59
+1180,11,Recife (PE),Florianopolis (SC),premium,1074.75,1.76,676.53,CloudFy,10/24/2019,11,Hotel A,Florianopolis (SC),2,313.02,626.04,10/24/2019,Umbrella LTDA,Jessica Walden,none,28
+1180,11,Florianopolis (SC),Recife (PE),premium,918.66,1.76,676.53,CloudFy,10/26/2019,11,Hotel A,Florianopolis (SC),2,313.02,626.04,10/24/2019,Umbrella LTDA,Jessica Walden,none,28
+1183,11,Recife (PE),Brasilia (DF),economic,439.38,0.63,242.21,Rainbow,11/14/2019,11,Hotel BP,Brasilia (DF),4,247.62,990.48,11/14/2019,Umbrella LTDA,Robin Taylor,male,28
+1183,11,Brasilia (DF),Recife (PE),economic,421.2,0.63,242.21,Rainbow,11/18/2019,11,Hotel BP,Brasilia (DF),4,247.62,990.48,11/14/2019,Umbrella LTDA,Robin Taylor,male,28
+1184,11,Recife (PE),Salvador (BH),premium,1242.65,2.05,788.55,CloudFy,11/21/2019,11,Hotel K,Salvador (BH),4,263.41,1053.64,11/21/2019,Umbrella LTDA,Nathaniel Mcmillian,none,39
+1184,11,Salvador (BH),Recife (PE),premium,1016.53,2.05,788.55,CloudFy,11/25/2019,11,Hotel K,Salvador (BH),4,263.41,1053.64,11/21/2019,Umbrella LTDA,Nathaniel Mcmillian,none,39
+1188,11,Recife (PE),Sao Paulo (SP),premium,657.87,1.26,486.52,CloudFy,12/19/2019,11,Hotel AF,Sao Paulo (SP),1,139.1,139.1,12/19/2019,Umbrella LTDA,Kim Firestine,none,42
+1188,11,Sao Paulo (SP),Recife (PE),premium,1195.26,1.26,486.52,CloudFy,12/20/2019,11,Hotel AF,Sao Paulo (SP),1,139.1,139.1,12/19/2019,Umbrella LTDA,Kim Firestine,none,42
+1190,11,Recife (PE),Sao Paulo (SP),premium,670.13,1.26,486.52,Rainbow,01/02/2020,11,Hotel AF,Sao Paulo (SP),1,139.1,139.1,01/02/2020,Umbrella LTDA,Matthew Lewis,male,21
+1190,11,Sao Paulo (SP),Recife (PE),premium,1145.72,1.26,486.52,Rainbow,01/03/2020,11,Hotel AF,Sao Paulo (SP),1,139.1,139.1,01/02/2020,Umbrella LTDA,Matthew Lewis,male,21
+1192,11,Recife (PE),Salvador (BH),premium,1249.83,2.05,788.55,Rainbow,01/16/2020,11,Hotel K,Salvador (BH),2,263.41,526.82,01/16/2020,Umbrella LTDA,Danny Henderson,male,32
+1192,11,Salvador (BH),Recife (PE),premium,1103.23,2.05,788.55,Rainbow,01/18/2020,11,Hotel K,Salvador (BH),2,263.41,526.82,01/16/2020,Umbrella LTDA,Danny Henderson,male,32
+1193,11,Recife (PE),Rio de Janeiro (RJ),economic,910.7,2.3,885.57,CloudFy,01/23/2020,11,Hotel CB,Rio de Janeiro (RJ),4,165.99,663.96,01/23/2020,Umbrella LTDA,Charla Knickerbocker,none,27
+1193,11,Rio de Janeiro (RJ),Recife (PE),economic,952.83,2.3,885.57,CloudFy,01/27/2020,11,Hotel CB,Rio de Janeiro (RJ),4,165.99,663.96,01/23/2020,Umbrella LTDA,Charla Knickerbocker,none,27
+1198,11,Aracaju (SE),Florianopolis (SC),firstClass,1515.79,2.1,808.85,CloudFy,02/27/2020,11,Hotel A,Florianopolis (SC),3,313.02,939.06,02/27/2020,Umbrella LTDA,Donnie Ames,none,57
+1198,11,Florianopolis (SC),Aracaju (SE),firstClass,1468.03,2.1,808.85,CloudFy,03/01/2020,11,Hotel A,Florianopolis (SC),3,313.02,939.06,02/27/2020,Umbrella LTDA,Donnie Ames,none,57
+1201,11,Brasilia (DF),Florianopolis (SC),firstClass,1576.97,1.66,637.56,Rainbow,03/19/2020,11,Hotel A,Florianopolis (SC),2,313.02,626.04,03/19/2020,Umbrella LTDA,Samuel Bejarano,male,36
+1201,11,Florianopolis (SC),Brasilia (DF),firstClass,1087.18,1.66,637.56,Rainbow,03/21/2020,11,Hotel A,Florianopolis (SC),2,313.02,626.04,03/19/2020,Umbrella LTDA,Samuel Bejarano,male,36
+1202,11,Aracaju (SE),Campo Grande (MS),firstClass,1387.89,1.69,650.1,Rainbow,03/26/2020,11,Hotel BW,Campo Grande (MS),2,60.39,120.78,03/26/2020,Umbrella LTDA,Lauren Saenz,none,37
+1202,11,Campo Grande (MS),Aracaju (SE),firstClass,1545.78,1.69,650.1,Rainbow,03/28/2020,11,Hotel BW,Campo Grande (MS),2,60.39,120.78,03/26/2020,Umbrella LTDA,Lauren Saenz,none,37
+1204,11,Recife (PE),Brasilia (DF),economic,439.38,0.63,242.21,Rainbow,04/09/2020,11,Hotel BP,Brasilia (DF),1,247.62,247.62,04/09/2020,Umbrella LTDA,Andrew Gonzales,male,35
+1204,11,Brasilia (DF),Recife (PE),economic,421.2,0.63,242.21,Rainbow,04/10/2020,11,Hotel BP,Brasilia (DF),1,247.62,247.62,04/09/2020,Umbrella LTDA,Andrew Gonzales,male,35
+1209,11,Brasilia (DF),Sao Paulo (SP),premium,698.1,0.67,257.81,CloudFy,05/14/2020,11,Hotel AF,Sao Paulo (SP),2,139.1,278.2,05/14/2020,Umbrella LTDA,Raymond Lubin,none,46
+1209,11,Sao Paulo (SP),Brasilia (DF),premium,602.12,0.67,257.81,CloudFy,05/16/2020,11,Hotel AF,Sao Paulo (SP),2,139.1,278.2,05/14/2020,Umbrella LTDA,Raymond Lubin,none,46
+1213,11,Recife (PE),Brasilia (DF),premium,638.63,0.63,242.21,Rainbow,06/11/2020,11,Hotel BP,Brasilia (DF),1,247.62,247.62,06/11/2020,Umbrella LTDA,Cecil Bronson,none,51
+1213,11,Brasilia (DF),Recife (PE),premium,559.13,0.63,242.21,Rainbow,06/12/2020,11,Hotel BP,Brasilia (DF),1,247.62,247.62,06/11/2020,Umbrella LTDA,Cecil Bronson,none,51
+1220,11,Brasilia (DF),Rio de Janeiro (RJ),firstClass,539.39,0.48,183.37,FlyingDrops,07/30/2020,11,Hotel CB,Rio de Janeiro (RJ),4,165.99,663.96,07/30/2020,Umbrella LTDA,Valerie Miller,none,36
+1220,11,Rio de Janeiro (RJ),Brasilia (DF),firstClass,591.19,0.48,183.37,FlyingDrops,08/03/2020,11,Hotel CB,Rio de Janeiro (RJ),4,165.99,663.96,07/30/2020,Umbrella LTDA,Valerie Miller,none,36
+1222,11,Brasilia (DF),Florianopolis (SC),economic,884.94,1.66,637.56,CloudFy,08/13/2020,11,Hotel A,Florianopolis (SC),2,313.02,626.04,08/13/2020,Umbrella LTDA,Steven Smith,male,64
+1222,11,Florianopolis (SC),Brasilia (DF),economic,636.51,1.66,637.56,CloudFy,08/15/2020,11,Hotel A,Florianopolis (SC),2,313.02,626.04,08/13/2020,Umbrella LTDA,Steven Smith,male,64
+1226,11,Brasilia (DF),Natal (RN),premium,1067.3,1.43,550.69,CloudFy,09/10/2020,11,Hotel BD,Natal (RN),3,242.88,728.64,09/10/2020,Umbrella LTDA,Sandy Ayala,male,22
+1226,11,Natal (RN),Brasilia (DF),premium,898.46,1.43,550.69,CloudFy,09/13/2020,11,Hotel BD,Natal (RN),3,242.88,728.64,09/10/2020,Umbrella LTDA,Sandy Ayala,male,22
+1227,11,Aracaju (SE),Rio de Janeiro (RJ),premium,930.12,1.55,597.61,Rainbow,09/17/2020,11,Hotel CB,Rio de Janeiro (RJ),2,165.99,331.98,09/17/2020,Umbrella LTDA,Danny Pitpitan,male,35
+1227,11,Rio de Janeiro (RJ),Aracaju (SE),premium,1098.93,1.55,597.61,Rainbow,09/19/2020,11,Hotel CB,Rio de Janeiro (RJ),2,165.99,331.98,09/17/2020,Umbrella LTDA,Danny Pitpitan,male,35
+1238,11,Brasilia (DF),Natal (RN),firstClass,1313.76,1.43,550.69,CloudFy,12/03/2020,11,Hotel BD,Natal (RN),4,242.88,971.52,12/03/2020,Umbrella LTDA,Ina Cassidy,none,26
+1238,11,Natal (RN),Brasilia (DF),firstClass,1300.53,1.43,550.69,CloudFy,12/07/2020,11,Hotel BD,Natal (RN),4,242.88,971.52,12/03/2020,Umbrella LTDA,Ina Cassidy,none,26
+1250,11,Recife (PE),Natal (RN),premium,488.73,0.58,222.67,Rainbow,02/25/2021,11,Hotel BD,Natal (RN),1,242.88,242.88,02/25/2021,Umbrella LTDA,Lisa Beaman,female,53
+1250,11,Natal (RN),Recife (PE),premium,579.62,0.58,222.67,Rainbow,02/26/2021,11,Hotel BD,Natal (RN),1,242.88,242.88,02/25/2021,Umbrella LTDA,Lisa Beaman,female,53
+1252,11,Brasilia (DF),Aracaju (SE),economic,721.2,1.11,425.98,Rainbow,03/11/2021,11,Hotel Z,Aracaju (SE),2,208.04,416.08,03/11/2021,Umbrella LTDA,Lyndon Germain,none,47
+1252,11,Aracaju (SE),Brasilia (DF),economic,548.62,1.11,425.98,Rainbow,03/13/2021,11,Hotel Z,Aracaju (SE),2,208.04,416.08,03/11/2021,Umbrella LTDA,Lyndon Germain,none,47
+1255,11,Recife (PE),Sao Paulo (SP),firstClass,954.78,1.26,486.52,FlyingDrops,04/01/2021,11,Hotel AF,Sao Paulo (SP),1,139.1,139.1,04/01/2021,Umbrella LTDA,Addie Jones,female,37
+1255,11,Sao Paulo (SP),Recife (PE),firstClass,1464.89,1.26,486.52,FlyingDrops,04/02/2021,11,Hotel AF,Sao Paulo (SP),1,139.1,139.1,04/01/2021,Umbrella LTDA,Addie Jones,female,37
+1257,11,Brasilia (DF),Natal (RN),firstClass,1433.35,1.43,550.69,FlyingDrops,04/15/2021,11,Hotel BD,Natal (RN),3,242.88,728.64,04/15/2021,Umbrella LTDA,Andre Chambers,male,31
+1257,11,Natal (RN),Brasilia (DF),firstClass,1192.62,1.43,550.69,FlyingDrops,04/18/2021,11,Hotel BD,Natal (RN),3,242.88,728.64,04/15/2021,Umbrella LTDA,Andre Chambers,male,31
+1262,11,Recife (PE),Sao Paulo (SP),premium,657.87,1.26,486.52,CloudFy,05/20/2021,11,Hotel AF,Sao Paulo (SP),4,139.1,556.4,05/20/2021,Umbrella LTDA,Barbara Trejo,none,31
+1262,11,Sao Paulo (SP),Recife (PE),premium,1195.26,1.26,486.52,CloudFy,05/24/2021,11,Hotel AF,Sao Paulo (SP),4,139.1,556.4,05/20/2021,Umbrella LTDA,Barbara Trejo,none,31
+1263,11,Aracaju (SE),Salvador (BH),economic,964.83,2.16,830.86,CloudFy,05/27/2021,11,Hotel K,Salvador (BH),4,263.41,1053.64,05/27/2021,Umbrella LTDA,Susan Fassino,female,29
+1263,11,Salvador (BH),Aracaju (SE),economic,811.73,2.16,830.86,CloudFy,05/31/2021,11,Hotel K,Salvador (BH),4,263.41,1053.64,05/27/2021,Umbrella LTDA,Susan Fassino,female,29
+1268,11,Recife (PE),Florianopolis (SC),firstClass,1434.38,1.76,676.53,FlyingDrops,07/01/2021,11,Hotel A,Florianopolis (SC),4,313.02,1252.08,07/01/2021,Umbrella LTDA,Kathleen Heller,female,46
+1268,11,Florianopolis (SC),Recife (PE),firstClass,1292.29,1.76,676.53,FlyingDrops,07/05/2021,11,Hotel A,Florianopolis (SC),4,313.02,1252.08,07/01/2021,Umbrella LTDA,Kathleen Heller,female,46
+1270,11,Brasilia (DF),Rio de Janeiro (RJ),premium,440.69,0.48,183.37,Rainbow,07/15/2021,11,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,07/15/2021,Umbrella LTDA,Christopher Wilkerson,none,47
+1270,11,Rio de Janeiro (RJ),Brasilia (DF),premium,435.67,0.48,183.37,Rainbow,07/18/2021,11,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,07/15/2021,Umbrella LTDA,Christopher Wilkerson,none,47
+1271,11,Brasilia (DF),Recife (PE),premium,559.13,0.63,242.21,Rainbow,07/22/2021,11,Hotel AU,Recife (PE),3,312.83,938.49,07/22/2021,Umbrella LTDA,Jessica Hoskins,female,61
+1271,11,Recife (PE),Brasilia (DF),premium,638.63,0.63,242.21,Rainbow,07/25/2021,11,Hotel AU,Recife (PE),3,312.83,938.49,07/22/2021,Umbrella LTDA,Jessica Hoskins,female,61
+1274,11,Aracaju (SE),Florianopolis (SC),economic,852.18,2.1,808.85,Rainbow,08/12/2021,11,Hotel A,Florianopolis (SC),2,313.02,626.04,08/12/2021,Umbrella LTDA,Charles Smalley,none,26
+1274,11,Florianopolis (SC),Aracaju (SE),economic,819.41,2.1,808.85,Rainbow,08/14/2021,11,Hotel A,Florianopolis (SC),2,313.02,626.04,08/12/2021,Umbrella LTDA,Charles Smalley,none,26
+1276,11,Aracaju (SE),Florianopolis (SC),firstClass,1582.41,2.1,808.85,Rainbow,08/26/2021,11,Hotel A,Florianopolis (SC),1,313.02,313.02,08/26/2021,Umbrella LTDA,David Mankey,male,49
+1276,11,Florianopolis (SC),Aracaju (SE),firstClass,1582.1,2.1,808.85,Rainbow,08/27/2021,11,Hotel A,Florianopolis (SC),1,313.02,313.02,08/26/2021,Umbrella LTDA,David Mankey,male,49
+1278,11,Brasilia (DF),Aracaju (SE),firstClass,1260.1,1.11,425.98,CloudFy,09/09/2021,11,Hotel Z,Aracaju (SE),3,208.04,624.12,09/09/2021,Umbrella LTDA,Wayne Williams,male,35
+1278,11,Aracaju (SE),Brasilia (DF),firstClass,957.68,1.11,425.98,CloudFy,09/12/2021,11,Hotel Z,Aracaju (SE),3,208.04,624.12,09/09/2021,Umbrella LTDA,Wayne Williams,male,35
+1280,11,Recife (PE),Brasilia (DF),economic,393.68,0.63,242.21,CloudFy,09/23/2021,11,Hotel BP,Brasilia (DF),3,247.62,742.86,09/23/2021,Umbrella LTDA,John Simpson,none,37
+1280,11,Brasilia (DF),Recife (PE),economic,432.1,0.63,242.21,CloudFy,09/26/2021,11,Hotel BP,Brasilia (DF),3,247.62,742.86,09/23/2021,Umbrella LTDA,John Simpson,none,37
+1281,11,Recife (PE),Rio de Janeiro (RJ),economic,910.7,2.3,885.57,CloudFy,09/30/2021,11,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,09/30/2021,Umbrella LTDA,Shirley Ortiz,female,63
+1281,11,Rio de Janeiro (RJ),Recife (PE),economic,952.83,2.3,885.57,CloudFy,10/03/2021,11,Hotel CB,Rio de Janeiro (RJ),3,165.99,497.97,09/30/2021,Umbrella LTDA,Shirley Ortiz,female,63
+1282,11,Recife (PE),Natal (RN),firstClass,628.96,0.58,222.67,Rainbow,10/07/2021,11,Hotel BD,Natal (RN),4,242.88,971.52,10/07/2021,Umbrella LTDA,John Martindale,male,30
+1282,11,Natal (RN),Recife (PE),firstClass,806.91,0.58,222.67,Rainbow,10/11/2021,11,Hotel BD,Natal (RN),4,242.88,971.52,10/07/2021,Umbrella LTDA,John Martindale,male,30
+1283,11,Brasilia (DF),Sao Paulo (SP),economic,538.95,0.67,257.81,CloudFy,10/14/2021,11,Hotel AF,Sao Paulo (SP),2,139.1,278.2,10/14/2021,Umbrella LTDA,Terrence Smith,none,23
+1283,11,Sao Paulo (SP),Brasilia (DF),economic,389.47,0.67,257.81,CloudFy,10/16/2021,11,Hotel AF,Sao Paulo (SP),2,139.1,278.2,10/14/2021,Umbrella LTDA,Terrence Smith,none,23
+1289,11,Brasilia (DF),Sao Paulo (SP),firstClass,893.65,0.67,257.81,CloudFy,11/25/2021,11,Hotel AF,Sao Paulo (SP),1,139.1,139.1,11/25/2021,Umbrella LTDA,Shirley Oneal,female,24
+1289,11,Sao Paulo (SP),Brasilia (DF),firstClass,742.94,0.67,257.81,CloudFy,11/26/2021,11,Hotel AF,Sao Paulo (SP),1,139.1,139.1,11/25/2021,Umbrella LTDA,Shirley Oneal,female,24
+1290,11,Brasilia (DF),Aracaju (SE),economic,654.88,1.11,425.98,CloudFy,12/02/2021,11,Hotel Z,Aracaju (SE),3,208.04,624.12,12/02/2021,Umbrella LTDA,William Sabir,male,32
+1290,11,Aracaju (SE),Brasilia (DF),economic,472.72,1.11,425.98,CloudFy,12/05/2021,11,Hotel Z,Aracaju (SE),3,208.04,624.12,12/02/2021,Umbrella LTDA,William Sabir,male,32
+1292,11,Brasilia (DF),Salvador (BH),firstClass,1685.23,1.76,676.56,CloudFy,12/16/2021,11,Hotel K,Salvador (BH),2,263.41,526.82,12/16/2021,Umbrella LTDA,Nicole Conroy,female,32
+1292,11,Salvador (BH),Brasilia (DF),firstClass,1032.4,1.76,676.56,CloudFy,12/18/2021,11,Hotel K,Salvador (BH),2,263.41,526.82,12/16/2021,Umbrella LTDA,Nicole Conroy,female,32
+1294,11,Aracaju (SE),Salvador (BH),firstClass,1714.75,2.16,830.86,FlyingDrops,12/30/2021,11,Hotel K,Salvador (BH),4,263.41,1053.64,12/30/2021,Umbrella LTDA,John Moroney,male,34
+1294,11,Salvador (BH),Aracaju (SE),firstClass,1581.59,2.16,830.86,FlyingDrops,01/03/2022,11,Hotel K,Salvador (BH),4,263.41,1053.64,12/30/2021,Umbrella LTDA,John Moroney,male,34
+1299,11,Brasilia (DF),Natal (RN),economic,791.66,1.43,550.69,CloudFy,02/03/2022,11,Hotel BD,Natal (RN),1,242.88,242.88,02/03/2022,Umbrella LTDA,Helen Meyer,none,25
+1299,11,Natal (RN),Brasilia (DF),economic,697.51,1.43,550.69,CloudFy,02/04/2022,11,Hotel BD,Natal (RN),1,242.88,242.88,02/03/2022,Umbrella LTDA,Helen Meyer,none,25
+1301,11,Recife (PE),Rio de Janeiro (RJ),premium,1270.03,2.3,885.57,CloudFy,02/17/2022,11,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,02/17/2022,Umbrella LTDA,Joseph Turner,male,57
+1301,11,Rio de Janeiro (RJ),Recife (PE),premium,1333.52,2.3,885.57,CloudFy,02/18/2022,11,Hotel CB,Rio de Janeiro (RJ),1,165.99,165.99,02/17/2022,Umbrella LTDA,Joseph Turner,male,57
+1303,11,Recife (PE),Brasilia (DF),economic,393.68,0.63,242.21,CloudFy,03/03/2022,11,Hotel BP,Brasilia (DF),4,247.62,990.48,03/03/2022,Umbrella LTDA,Douglas Kreider,male,59
+1303,11,Brasilia (DF),Recife (PE),economic,432.1,0.63,242.21,CloudFy,03/07/2022,11,Hotel BP,Brasilia (DF),4,247.62,990.48,03/03/2022,Umbrella LTDA,Douglas Kreider,male,59
+1316,11,Recife (PE),Brasilia (DF),economic,439.38,0.63,242.21,Rainbow,06/02/2022,11,Hotel BP,Brasilia (DF),2,247.62,495.24,06/02/2022,Umbrella LTDA,Joseph Colvin,male,50
+1316,11,Brasilia (DF),Recife (PE),economic,421.2,0.63,242.21,Rainbow,06/04/2022,11,Hotel BP,Brasilia (DF),2,247.62,495.24,06/02/2022,Umbrella LTDA,Joseph Colvin,male,50
+1319,11,Brasilia (DF),Aracaju (SE),firstClass,1260.1,1.11,425.98,CloudFy,06/23/2022,11,Hotel Z,Aracaju (SE),3,208.04,624.12,06/23/2022,Umbrella LTDA,Grace Walling,none,51
+1319,11,Aracaju (SE),Brasilia (DF),firstClass,957.68,1.11,425.98,CloudFy,06/26/2022,11,Hotel Z,Aracaju (SE),3,208.04,624.12,06/23/2022,Umbrella LTDA,Grace Walling,none,51
+1322,11,Aracaju (SE),Natal (RN),economic,380.32,0.46,176.33,Rainbow,07/14/2022,11,Hotel BD,Natal (RN),2,242.88,485.76,07/14/2022,Umbrella LTDA,Irene Cavanaugh,none,31
+1322,11,Natal (RN),Aracaju (SE),economic,301.61,0.46,176.33,Rainbow,07/16/2022,11,Hotel BD,Natal (RN),2,242.88,485.76,07/14/2022,Umbrella LTDA,Irene Cavanaugh,none,31
+1325,11,Brasilia (DF),Salvador (BH),premium,1346.6,1.76,676.56,CloudFy,08/04/2022,11,Hotel K,Salvador (BH),3,263.41,790.23,08/04/2022,Umbrella LTDA,Doris Wendt,female,51
+1325,11,Salvador (BH),Brasilia (DF),premium,836.89,1.76,676.56,CloudFy,08/07/2022,11,Hotel K,Salvador (BH),3,263.41,790.23,08/04/2022,Umbrella LTDA,Doris Wendt,female,51
+1327,11,Recife (PE),Florianopolis (SC),economic,803.39,1.76,676.53,Rainbow,08/18/2022,11,Hotel A,Florianopolis (SC),3,313.02,939.06,08/18/2022,Umbrella LTDA,Joseph Mccoy,male,42
+1327,11,Florianopolis (SC),Recife (PE),economic,695.3,1.76,676.53,Rainbow,08/21/2022,11,Hotel A,Florianopolis (SC),3,313.02,939.06,08/18/2022,Umbrella LTDA,Joseph Mccoy,male,42
+1328,11,Brasilia (DF),Campo Grande (MS),economic,629.54,0.72,277.7,Rainbow,08/25/2022,11,Hotel BW,Campo Grande (MS),4,60.39,241.56,08/25/2022,Umbrella LTDA,Cheryl Avila,female,51
+1328,11,Campo Grande (MS),Brasilia (DF),economic,517.82,0.72,277.7,Rainbow,08/29/2022,11,Hotel BW,Campo Grande (MS),4,60.39,241.56,08/25/2022,Umbrella LTDA,Cheryl Avila,female,51
+1334,11,Brasilia (DF),Aracaju (SE),economic,721.2,1.11,425.98,Rainbow,10/06/2022,11,Hotel Z,Aracaju (SE),4,208.04,832.16,10/06/2022,Umbrella LTDA,Tina Lancaster,female,60
+1334,11,Aracaju (SE),Brasilia (DF),economic,548.62,1.11,425.98,Rainbow,10/10/2022,11,Hotel Z,Aracaju (SE),4,208.04,832.16,10/06/2022,Umbrella LTDA,Tina Lancaster,female,60
